@@ -25,7 +25,8 @@
 | 🍌 Nutrition & Fueling | [[Support/Nutrition and Fueling]] |
 | 🔄 Recovery & Adjustments | [[Support/Recovery and Adjustments]] |
 | 📏 Baseline Tests | [[Support/Baseline Tests]] |
-| 📓 Training Log | [[Log/Training Log]] |
+| 📊 Messwerte | [[Log/Messwerte]] |
+| 🚴 Strava Aktivitäten | [[Log/Strava]] |
 
 ---
 
@@ -70,7 +71,7 @@
 
 ## 📝 Weekly Log (Latest Entry)
 
-> Full log → [[Log/Training Log]]
+> Full metrics log → [[Log/Messwerte]] · Strava activities → [[Log/Strava]]
 
 | Date | Discipline | Planned | Completed | RPE (1–10) | Notes |
 |---|---|---|---|---|---|

@@ -130,8 +130,11 @@ Ironman/
 │   ├── Nutrition and Fueling.md
 │   ├── Recovery and Adjustments.md
 │   └── Baseline Tests.md
-└── Log/
-    └── Training Log.md
+├── Log/
+│   ├── Messwerte.md
+│   └── Strava.md
+└── Log/Strava/Activities/
+    └── one note per imported activity
 ```
 
 ---

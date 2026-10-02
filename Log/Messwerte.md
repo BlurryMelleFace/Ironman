@@ -1,8 +1,8 @@
-# Training Log — IRONMAN Belgium 2027
+# Messwerte — IRONMAN Belgium 2027
 
 > Log every session here. Consistent logging reveals patterns — when you're fatigued, when your best sessions happen, and which disciplines need attention.
 
-> **Strava/Garmin:** Sync detailed data there. Use this log for quick notes, planned vs. completed, and how you felt. The combination is more powerful than either alone.
+> **Strava/Garmin:** Synced activity detail lives in [[Strava]]. Use this file for training metrics, planned vs. completed, and how you felt.
 
 ---
 
@@ -33,7 +33,7 @@ Die Liste gruppiert Wochen automatisch nach Status. Die aktuelle Woche steht obe
 
 ### Neue Woche anlegen
 
-1. Erstelle eine Notiz in `Log/Weeks` mit Namen `W02 2026-10-05` (Wochennummer und Montag als Datum).
+1. Erstelle eine Notiz in `Log/Weeks` mit Wochennummer und Montag als Datum.
 2. Füge mit dem Obsidian-Befehl **Templates: Insert template** die Vorlage [[Templates/Weekly Training Log Template]] ein.
 3. Trage Start/Ende, Phase und Sollwerte aus [[../Plan/03 Week by Week Schedule]] ein. Die Bases-Übersicht sortiert sie automatisch.
 
@@ -95,4 +95,4 @@ Der Trainingsstart ist Freitag, 2. Oktober. Der Tageslog für diese Woche steht 
 
 ---
 
-*Back to [[../Dashboard]]*
+*Back to [[../Dashboard]] · Strava activities → [[Strava]]*
