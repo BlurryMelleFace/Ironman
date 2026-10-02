@@ -31,12 +31,9 @@ When you step off the bike, your leg muscles have been in a fixed cycling positi
 | Phase 3 | Wk 27–40 | 2:00–3:00 h | 30–35 min | Maintain — 1×/week every week |
 | Phase 4 | Wk 41 | 3:00 h | 40 min | Begin race effort on bike (Z2 disciplined) |
 | Phase 4 | Wk 42 | 3:30 h | 45 min | Focus on run form under fatigue |
-| Phase 4 | Wk 43 | 4:00 h | 50 min | Brick at race effort bike, then aggressive run |
-| Phase 4 | Wk 45 | 4:30 h | 55 min | Practice nutrition in full race kit |
-| Phase 4 | Wk 46 | 5:00 h | 60 min | Full race simulation feel |
-| **Phase 4** | **Wk 47** | **4:00 h** | **1:30 h** | **🏁 Race Simulation Day** |
-| Phase 4 | Wk 49 | 5:30 h | 60 min | Final long brick before taper |
-| Taper | Wk 50 | 2:00 h | 25 min | Easy feel-good session |
+| **Phase 4** | **Wk 43** | **4:30 h** | **60–90 min** | **🏁 Controlled race simulation; Sunday easy or rest** |
+| Phase 4 | Wk 45 | 5:00 h | 20–30 min | Final long ride with a short brick before taper |
+| Taper | Wk 46 | 2:00 h | 25 min | Easy feel-good session |
 
 ---
 
@@ -100,9 +97,9 @@ RUN PHASE:
 
 ---
 
-### 🧱 Session BR3 — Race Simulation Day (Week 47)
+### 🧱 Session BR3 — Race Simulation Day (Week 43)
 
-**Bike: 4:00 h | Run: 1:30 h | Total: ~5:30–6:00 h**
+**Bike: 4:30 h | Run: 60–90 min | Total: ~5:30–6:00 h**
 **This is your most important preparation session of the entire plan.**
 
 ```
@@ -111,7 +108,7 @@ PREPARATION (night before):
   Prepare nutrition: count and bag your gels/bars for the bike AND run
   Set alarm to simulate race day timing
 
-BIKE PHASE (4:00 h):
+BIKE PHASE (4:30 h):
   Warm-up: 15 min easy
   First 30 min: deliberately restrained — simulate leaving T1 with swim legs
   Main 3:15 h: sustained Z2 at race effort
@@ -127,7 +124,7 @@ BIKE PHASE (4:00 h):
 TRANSITION:
   Full T2 routine in race kit
   
-RUN PHASE (1:30 h):
+RUN PHASE (60–90 min):
   This is the critical learning session.
   First 10 min: walk-run if needed, legs will be heavy
   Main 60–70 min: settle into race marathon effort (Z2 for run)

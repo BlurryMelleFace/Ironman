@@ -4,19 +4,19 @@
 
 ---
 
-## October 2026 — Phase 1, Foundation (Weeks 1–4)
+## October 2026 — Phase 1, Foundation (Weeks 1–5; W1 starts Sep 28)
 
-**Target: 6–7 h/week · Week 4 = Recovery week**
+**Target: 6–8 h/week · Week 4 (Oct 19–25) = Recovery week**
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
-| | | 1 | **2 ← START** | 3 | 4 | 5 |
-| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| **27 🔄** | **28 🔄** | **29 🔄** | **30 🔄** | **31 🔄** | | |
+| | | | 1 | **2 ← START** | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| **19 🔄** | **20 🔄** | **21 🔄** | **22 🔄** | **23 🔄** | **24 🔄** | **25 🔄** |
+| 26 | 27 | 28 | 29 | 30 | 31 | |
 
-🔄 = Recovery week (Wk 4, Oct 27–Nov 2)
+🔄 = Recovery week (Wk 4, Oct 19–25)
 
 **October focus:** Build swim habit (technique drills), establish 3×/week training rhythm, first 5 km run TT baseline test, first 400m swim TT.
 
@@ -24,40 +24,42 @@
 
 ---
 
-## November 2026 — Phase 1, Foundation (Weeks 5–8)
+## November 2026 — Phase 1, Foundation (Weeks 5–9)
 
-**Target: 7–8 h/week · Week 8 = Recovery week**
+**Target: 7–9 h/week · Week 8 (Nov 16–22) = Recovery week**
 
 | Mon       | Tue       | Wed       | Thu       | Fri       | Sat       | Sun       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| **3 🔄**  | 4         | 5         | 6         | 7         | 8         | 9         |
-| 10        | 11        | 12        | 13        | 14        | 15        | 16        |
-| 17        | 18        | 19        | 20        | 21        | 22        | 23        |
-| **24 🔄** | **25 🔄** | **26 🔄** | **27 🔄** | **28 🔄** | **29 🔄** | **30 🔄** |
+| | | | | | | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| **16 🔄** | **17 🔄** | **18 🔄** | **19 🔄** | **20 🔄** | **21 🔄** | **22 🔄** |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | | | | | | |
 
-🔄 = Recovery week (Wk 8, Nov 24–30)
+🔄 = Recovery week (Wk 8, Nov 16–22)
 
-**November focus:** Swim volume building to 1,500m/session, long ride to 2:00, long run to 1:10. Begin strength progression (increase load on main lifts).
+**November focus:** Two swims per week, building toward 1,500m/session; Saturday long bike toward 2:00; Sunday long run progresses gradually around 12–15 km. Begin strength progression (increase load on main lifts gradually).
 
 **BW Holidays:** Nov 1 = All Saints' Day (Sunday — no extra day off)
 
 ---
 
-## December 2026 — Phase 1, Foundation (Weeks 9–13)
+## December 2026 — Phase 1 → Phase 2 (Weeks 9–14)
 
-**Target: 8–9 h/week · Week 12 = Recovery week**
+**Target: 5.5–9.5 h/week · Week 12 = Recovery; Phase 2 begins W14 on Dec 28**
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| **15 🔄** | **16 🔄** | **17 🔄** | **18 🔄** | **19 🔄** | **20 🔄** | **21 🔄** |
-| 22 | 23 | 24 🎄 | 25 🎄 | 26 🎄 | 27 | 28 |
-| 29 → | | | | | | |
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| **14 🔄** | **15 🔄** | **16 🔄** | **17 🔄** | **18 🔄** | **19 🔄** | **20 🔄** |
+| 21 | 22 | 23 | 24 🎄 | 25 🎄 | 26 🎄 | 27 |
+| 28 → | 29 | 30 | 31 | | | |
 
-🔄 = Recovery week (Wk 12, Dec 15–21) · 🎄 = Holiday week (treat as additional recovery/easy)
+🔄 = Recovery week (Wk 12, Dec 14–20) · 🎄 = Holiday week (treat as additional recovery/easy)
 
-**December focus:** Swim building to 1,800m/session, strength entering heavier phase, long ride to 2:30. **Christmas week (Dec 22–28): treat as Week 13, reduced volume — enjoy the holidays, keep moving.** Start Phase 2 after New Year.
+**December focus:** Two swims per week, building toward 1,800m/session; Saturday long bike toward 2:30; keep the long run controlled around 13–15 km. Strength enters a heavier phase. **Christmas week (Dec 21–27, Week 13): reduced volume — enjoy the holidays, keep moving. Phase 2 starts Dec 28.**
 
 **BW Holidays:** Dec 25, 26 — Christmas. Use the holiday break as bonus recovery, not a training interruption.
 
@@ -80,7 +82,7 @@
 
 🏛️ = Epiphany (Baden-Württemberg public holiday, Tue Jan 6) — use for a long indoor trainer ride
 
-**January focus:** Volume step up. Long trainer rides building to 3:00. Run long to 1:30. Swim building to 2,000m/session. Strength: moving into Max Strength phase (heavier weights, 3–5 reps).
+**January focus:** Volume steps up gradually. Saturday trainer rides build toward 3:00; Sunday runs progress only if recovery is good. Swim building to 2,000m/session, with a third swim optional. Strength: moving into Max Strength phase (heavier weights, 3–5 reps).
 
 ---
 
@@ -170,9 +172,9 @@
 
 ---
 
-## July 2027 — Phase 3 → Phase 4 (Weeks 40–43)
+## July 2027 — Phase 3 → Phase 4 (Weeks 40–44)
 
-**Target: 6 h → then 12 h from Wk 41**
+**Target: 6 h through exam recovery; Phase 4 starts W41 on Jul 5**
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
@@ -184,16 +186,16 @@
 
 📝 = Estimated exam date · 🔴 = Phase 4 Peak Build begins
 
-**July focus:** Week 40 = Exam + immediate recovery (do nothing for 3–4 days after exam — celebrate!). From Jul 8 (Week 41): **Phase 4 begins in earnest**. Volume jumps to 12–14 h/week. Long rides go outdoors, brick sessions intensify, open-water swimming continues weekly.
+**July focus:** Week 40 ends with the exam on Jul 4 and immediate recovery. From Jul 5 (Week 41): **Phase 4 begins**. Build toward 14–15 h/week; long rides go outdoors, bricks become race-specific, and open-water swimming continues weekly.
 
 > [!TIP]
 > After the exam: take 2–3 easy days, go for a swim or easy bike ride to de-stress, then begin Phase 4 properly from the Monday after.
 
 ---
 
-## August 2027 — Phase 4 → Phase 5 Taper (Weeks 45–52)
+## August 2027 — Phase 4 → Phase 5 Taper (Weeks 45–49)
 
-**Target: 13–15 h → tapering from Aug 9**
+**Target: final peak week Aug 2–8, then taper from Aug 9 (W46)**
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
@@ -203,30 +205,29 @@
 | **18 ⬇️⬇️** | 19 | 20 | 21 | 22 | 23 | 24 |
 | **25 ⬇️⬇️⬇️** | 26 | 27 | 28 | 29 | 30 | 31 |
 
-⬇️ = Volume reduction taper · ← PEAK = Last big training week (Aug 4–8)
+⬇️ = Volume reduction taper · ← PEAK = Last big training week (Aug 2–8, W45)
 
 **August focus:** 
-- Aug 1–8: Final peak week — longest brick, longest single bike ride (~5:30), longest run (2:45–3:00)
-- Aug 9 onwards: Taper begins. Volume drops but intensity maintained with short sharpeners
+- Aug 2–8 (W45): Final peak week — long bike with a short brick; keep the following run easy
+- Aug 9 (W46) onwards: Taper begins. Volume drops but intensity is maintained with short sharpeners
 - Aug 18: Begin very easy week — only aerobic, no hard efforts
 - Aug 25: Race week prep — travel planning, nutrition stock, race kit check
 
 ---
 
-## September 2027 — Race Week
+## September 2027 — Race Week (W49)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
-| 1 | 2 | 3 | 4 | 5 | 6 | **7** |
-| **1** | **2** | **3** | **4 🏁** | | | |
+| | | 1 | 2 | 3 | 4 | **5 🏁** |
 
 | Date          | Activity                                                                        |
 | ------------- | ------------------------------------------------------------------------------- |
-| Mon Sep 1     | Travel to Knokke-Heist, check in                                                |
-| Tue Sep 2     | Easy 20-min swim, 30-min bike, short run — just to move                         |
-| Wed Sep 3     | Registration & bike check-in at expo, 20-min easy jog                           |
-| Thu Sep 4     | Rest. Short 10-min swim. Bike racked. Gear bags sorted. Early dinner, early bed |
-| **Fri Sep 5** | **🏁 IRONMAN BELGIUM — RACE DAY**                                               |
+| Mon Aug 30    | Travel to Knokke-Heist, check in                                                |
+| Tue Aug 31    | Easy 20-min swim, 30-min bike, short run — just to move                         |
+| Wed Sep 1     | Registration & bike check-in at expo, 20-min easy jog                           |
+| Thu Sep 2     | Rest. Short 10-min swim. Bike racked. Gear bags sorted. Early dinner, early bed |
+| **Sun Sep 5** | **🏁 IRONMAN BELGIUM — RACE DAY**                                               |
 
 ---
 

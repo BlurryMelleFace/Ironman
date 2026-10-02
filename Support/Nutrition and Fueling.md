@@ -51,7 +51,7 @@ You cannot replace all of this — your fat stores fill the gap. The goal is to 
 | Phase 2 Feb onwards | Increase to 60 g carbs/hr on long bikes. Test different products. |
 | Phase 3 (Apr–Jul) | Maintain practice on all long sessions. Find what works — one product brand/type. |
 | Phase 4 (Jul–Aug) | Race nutrition exactly: 70–80 g/hr on bike, 50–60 g/hr on run. Brick sessions only. |
-| Race Simulation (Wk 47) | Full race nutrition protocol. This is your final test. |
+| Race Simulation (Wk 43) | Full race nutrition protocol. This is your key dress rehearsal. |
 
 ---
 

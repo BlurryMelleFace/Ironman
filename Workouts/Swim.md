@@ -209,7 +209,7 @@ Session OW2 — Building Confidence (Weeks 35–40):
   2–3 × 600–800m with sighting practice
   Time yourself on one rep for comparison with pool
 
-Session OW3 — Race-Specific (Weeks 41–49):
+Session OW3 — Race-Specific (Weeks 41–45):
   1 × 2,000–3,000m continuous at race effort
   Simulate race start: sprint first 200m, then settle into aerobic pace
   Practice mass start feel if group training available

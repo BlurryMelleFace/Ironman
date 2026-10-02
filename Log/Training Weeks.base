@@ -1,0 +1,48 @@
+filters:
+  and:
+    - 'file.inFolder("Log/Weeks")'
+    - 'kind == "training-week"'
+    - 'week_start != null'
+formulas:
+  week_status: 'if(week_start <= today() && week_end >= today(), "0 Aktuell", if(week_start > today(), "1 Demnaechst", "2 Abgeschlossen"))'
+properties:
+  formula.week_status:
+    displayName: Status
+  note.week_number:
+    displayName: Woche
+  note.week_start:
+    displayName: Start
+  note.phase:
+    displayName: Phase
+  note.planned_hours:
+    displayName: Soll (h)
+  note.actual_hours:
+    displayName: Ist (h)
+  note.planned_long_bike:
+    displayName: Long Bike Soll
+  note.actual_long_bike:
+    displayName: Long Bike Ist
+  note.planned_long_run:
+    displayName: Long Run Soll
+  note.actual_long_run:
+    displayName: Long Run Ist
+  note.rpe:
+    displayName: RPE
+views:
+  - type: table
+    name: Wochenlog
+    groupBy:
+      property: formula.week_status
+      direction: ASC
+    order:
+      - file.name
+      - note.week_number
+      - note.week_start
+      - note.phase
+      - note.planned_hours
+      - note.actual_hours
+      - note.planned_long_bike
+      - note.actual_long_bike
+      - note.planned_long_run
+      - note.actual_long_run
+      - note.rpe

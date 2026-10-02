@@ -11,13 +11,13 @@
 
 | Test Date | Weeks | Context |
 |---|---|---|
-| **2–5 Oct 2026** | Wk 1 | Baseline — do all tests |
-| **~25 Nov 2026** | Wk 8 | First check-in (Phase 1 mid) |
-| **~20 Jan 2027** | Wk 16 | Phase 2 early check |
-| **~17 Mar 2027** | Wk 24 | Phase 2 end / Phase 3 start |
-| **~12 May 2027** | Wk 32 | Phase 3 mid — open water started |
-| **~7 Jul 2027** | Wk 41 | Phase 4 start — post-exam |
-| **~4 Aug 2027** | Wk 49 | Pre-taper peak — final check |
+| **5–11 Oct 2026** | Wk 2 | Baseline tests — rested, spread across the week |
+| **~16 Nov 2026** | Wk 8 | First check-in (Phase 1 mid) |
+| **~18 Jan 2027** | Wk 17 | Phase 2 early check |
+| **~15 Mar 2027** | Wk 25 | Phase 2 end / Phase 3 start |
+| **~10 May 2027** | Wk 33 | Phase 3 mid — open water started |
+| **5 Jul 2027** | Wk 41 | Phase 4 start — post-exam |
+| **2 Aug 2027** | Wk 45 | Final peak check before taper |
 
 ---
 

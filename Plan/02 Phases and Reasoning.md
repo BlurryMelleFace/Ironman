@@ -7,19 +7,19 @@
 
 ## The Big Picture
 
-You have **48 weeks** from 2 October 2026 to race day (5 September 2027). This is an excellent runway for a first Ironman. The plan is divided into 5 phases, each with a distinct physiological purpose.
+The calendar runs from **Monday, 28 September 2026 (Week 1), to race day on 5 September 2027 (Week 49)**. Training begins Friday, 2 October, during Week 1. The plan is divided into 5 phases, each with a distinct physiological purpose.
 
 ```
-Oct 2026        Jan 2027        Apr 2027        Jul 2027        Sep 2027
+Sep 2026        Dec 2026        Mar 2027        Jul 2027        Sep 2027
    |               |               |               |               |
-   [===Phase 1===][====Phase 2====][===Phase 3===][=Phase 4=][Tap]|
+   [===Phase 1===][====Phase 2====][=====Phase 3=====][Peak][Taper]|
    Foundation      Base Build      Pre-Exam       Peak Build  Taper RACE
-   13 wks          13 wks          13 wks          5 wks       4 wks
+   13 wks          13 wks          14 wks          5 wks       4 wks
 ```
 
 ---
 
-## Phase 1 — Foundation (Weeks 1–13 · Oct 2 – Dec 28, 2026)
+## Phase 1 — Foundation (Weeks 1–13 · Sep 28 – Dec 27, 2026; training starts Oct 2)
 
 **Weekly hours: 7–10 h · Recovery weeks: Wk 4, 8, 12**
 
@@ -34,8 +34,8 @@ Your bike and run base are much better than your swim, so this phase keeps those
 Strength training is at its highest frequency here (2×/week) because you have more recovery capacity before high endurance volumes kick in.
 
 ### What "success" looks like at the end of Phase 1
-- [ ] Swimming 3× per week consistently, 1,200–1,800m per session
-- [ ] Running 3× per week, long run reaching 90 min
+- [ ] Swimming 2× per week consistently, building toward 3× when schedule and recovery allow
+- [ ] Running 3× per week, with the early long run progressing gradually from about 13 km
 - [ ] Long ride reaching 2.5–3 hours
 - [ ] Strength: 2 sessions/week, form established on all key lifts
 - [ ] 400m swim TT completed as baseline
@@ -44,18 +44,18 @@ Strength training is at its highest frequency here (2×/week) because you have m
 
 | Discipline | Sessions/wk | Priority |
 |---|---|---|
-| Swim | 3 | 🔴 Highest |
+| Swim | 2 (later 3 if practical) | 🔴 Highest |
 | Bike | 3 | 🟡 Medium |
-| Run | 3–4 | 🟡 Medium |
+| Run | 3 | 🟡 Medium |
 | Strength | 2 | 🟢 Supporting |
-| Active Recovery | Daily (where no other session) | 🟢 Essential |
+| Full rest | 1 day (Monday) | 🟢 Essential |
 
 ### Intensity
-~90% Zone 1–2. **No full rest days** — instead, any day without a structured session gets a 30–45 min active recovery session (easy swim, walk, or mobility). This keeps blood flowing and habits consistent without adding training stress.
+~90% Zone 1–2. **Monday is a full rest day.** Optional gentle mobility is fine, but do not replace rest with another training session. Group leg strength after Tuesday's easy run so Wednesday can stay light; keep Thursday as the quality double and the weekend for the long bike and long run.
 
 ---
 
-## Phase 2 — Base Build (Weeks 14–26 · Dec 29, 2026 – Mar 28, 2027)
+## Phase 2 — Base Build (Weeks 14–26 · Dec 28, 2026 – Mar 28, 2027)
 
 **Weekly hours: 10–13 h · Recovery weeks: Wk 17, 21, 25**
 
@@ -71,18 +71,18 @@ Winter in Germany also means indoor cycling on the trainer is the norm. Structur
 - **First brick sessions** begin (Wk 18 onwards) — short run off the bike, 15–20 min
 - **Swim volume increases** — target 2,000–2,500m per session by end of phase
 - **Long rides build to 4 hours** on the trainer or, as spring arrives, outdoors
-- **Long runs build to 2:15–2:30**
+- **Long runs progress gradually from the early 10–14 km range; avoid forcing distance increases**
 - Strength reduces to 1–2×/week, shifting toward heavier lower-rep work
 
 ### Discipline balance
 
 | Discipline | Sessions/wk | Priority |
 |---|---|---|
-| Swim | 3 | 🔴 High |
-| Bike | 3–4 | 🔴 High |
-| Run | 4 | 🟡 Medium |
+| Swim | 2–3 | 🔴 High |
+| Bike | 3 (including the long ride) | 🔴 High |
+| Run | 3 (including the long run and short brick) | 🟡 Medium |
 | Strength | 1–2 | 🟢 Supporting |
-| Active Recovery | Daily (where no other session) | 🟢 Essential |
+| Full rest | 1 day (Monday) | 🟢 Essential |
 
 ---
 
@@ -94,7 +94,7 @@ Winter in Germany also means indoor cycling on the trainer is the norm. Structur
 *Protect and maintain.* You have an important exam at the beginning of July. Sustained high training load during exam preparation is associated with increased illness risk, poor recovery, and performance decline in both fitness and cognitive performance. This phase holds your fitness gains without pushing into fatigue.
 
 ### Why it's structured this way
-This is a deliberate coaching decision. Thirteen weeks of maintenance at 6–8 h/week will retain >90% of the aerobic adaptations from Phase 2 (Mujika & Padilla, 2000 — detraining research). You will *not* lose fitness by training conservatively here. You will however lose fitness (and risk injury) if you try to push peak load alongside exam stress.
+This is a deliberate coaching decision. Fourteen weeks of maintenance at 6–8 h/week will retain >90% of the aerobic adaptations from Phase 2 (Mujika & Padilla, 2000 — detraining research). You will *not* lose fitness by training conservatively here. You will however lose fitness (and risk injury) if you try to push peak load alongside exam stress.
 
 ### What you focus on
 - Consistent 3×/week swim — continue building to 3.0–3.5 km sessions
@@ -119,29 +119,29 @@ This is a deliberate coaching decision. Thirteen weeks of maintenance at 6–8 h
 
 ---
 
-## Phase 4 — Peak Build (Weeks 41–49 · Jul 5 – Aug 8, 2027)
+## Phase 4 — Peak Build (Weeks 41–45 · Jul 5 – Aug 8, 2027)
 
-**Weekly hours: 14–15 h · Recovery week: Wk 44, 48**
+**Weekly hours: 14–15 h · Recovery week: Wk 44**
 
 ### Purpose
 This is your highest-volume, most race-specific training block. You're now 9 weeks from race day with the exam behind you. This is when you simulate race conditions, do your longest training sessions, and dial in your nutrition and pacing strategy.
 
 ### Why it's structured this way
-Nine weeks of peak training is the right amount for a first Ironman. More would risk overtraining; less would mean arriving under-prepared for the distance.
+Five weeks of focused peak training follow the exam-maintenance block, followed by a four-week taper to race day.
 
 ### Key sessions in this phase
 - **Long bike: 5–6 hours** (outdoors, building to ~150–160 km)
 - **Long run: 2:30–3:00** (never more than 3:00 — marathon training research shows diminishing returns beyond this)
-- **Brick sessions every week** — bike 3–4 h + immediate 40–60 min run
+- **Occasional specific brick sessions** — a long bike with a controlled 30–60 min run; shorten or skip the following day's run when needed
 - **Swim: one open-water session per week** + two pool sessions
-- **Race simulation day** (Week 46/47): ~4 h bike + 90 min run in race kit, with full race nutrition
+- **Race simulation day** (Week 43): ~4.5 h bike + 60–90 min easy run in race kit, with full race nutrition
 
 ### Important: nutrition training begins in earnest
 Every long session should include your planned race nutrition — gels, bars, or drinks. Your gut needs training just like your muscles.
 
 ---
 
-## Phase 5 — Taper (Weeks 50–53 · Aug 9 – Sep 5, 2027)
+## Phase 5 — Taper (Weeks 46–49 · Aug 9 – Sep 5, 2027)
 
 **Weekly hours: 8 → 5 → 3 → 2**
 
@@ -153,10 +153,10 @@ Many athletes make the mistake of either tapering too little (arriving fatigued)
 
 | Week | Volume | Focus |
 |---|---|---|
-| Wk 50 (Aug 9–15) | –30% from peak | Maintain intensity, reduce volume |
-| Wk 51 (Aug 16–22) | –50% from peak | Short race-pace efforts in each discipline |
-| Wk 52 (Aug 23–29) | –65% from peak | Easy aerobic, very short sharpeners |
-| Wk 53 (Aug 30–Sep 5) | Race week | Arrival, registration, course familiarisation, rest |
+| Wk 46 (Aug 9–15) | –30% from peak | Maintain intensity, reduce volume |
+| Wk 47 (Aug 16–22) | –50% from peak | Short race-pace efforts in each discipline |
+| Wk 48 (Aug 23–29) | –65% from peak | Easy aerobic, very short sharpeners |
+| Wk 49 (Aug 30–Sep 5) | Race week | Arrival, registration, course familiarisation, rest |
 
 > [!WARNING]
 > **Taper madness is real.** You will feel sluggish, slightly out of form, and anxious in the last 2 weeks. This is normal — it means your body is recovering. Do NOT add extra sessions.
@@ -174,7 +174,7 @@ Many athletes make the mistake of either tapering too little (arriving fatigued)
 | Phase 5 (Taper) | None | Full recovery priority | — |
 
 > [!NOTE]
-> **Active Recovery vs. Rest:** On days without a structured endurance or strength session, do 30–45 min of genuinely easy movement — an easy swim (no intervals), a brisk walk, or 20 min of mobility/foam rolling. This replaces full rest days and keeps your training habit consistent without adding meaningful load.
+> **Rest is training:** Keep Monday free of planned training. Mobility or an easy walk is optional, not a session to make up for missed work. After a demanding Saturday bike or brick, shorten or skip Sunday's run rather than forcing the planned volume.
 
 ---
 

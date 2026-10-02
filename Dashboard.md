@@ -33,11 +33,11 @@
 
 | Phase | Dates | Weeks | Weekly Hours | Focus |
 |---|---|---|---|---|
-| 🟢 **Phase 1 — Foundation** | Oct 2 – Dec 28, 2026 | 1–13 | 7–10 h | Build habit, aerobic base, swim technique |
-| 🔵 **Phase 2 — Base Build** | Dec 29 – Mar 28, 2027 | 14–26 | 10–13 h | Volume, long rides, run durability |
+| 🟢 **Phase 1 — Foundation** | Sep 28 – Dec 27, 2026 | 1–13 | 7–10 h | Build habit, aerobic base, swim technique |
+| 🔵 **Phase 2 — Base Build** | Dec 28, 2026 – Mar 28, 2027 | 14–26 | 10–13 h | Volume, long rides, run durability |
 | 🟡 **Phase 3 — Pre-Exam Maintenance** | Mar 29 – Jul 4, 2027 | 27–40 | 7–9 h | Maintain fitness, protect exam prep |
-| 🔴 **Phase 4 — Peak Build** | Jul 5 – Aug 8, 2027 | 41–49 | 14–15 h | Race-specific intensity, long bricks |
-| ⚫ **Phase 5 — Taper** | Aug 9 – Sep 5, 2027 | 50–53 | 8→3 h | Shed fatigue, stay sharp |
+| 🔴 **Phase 4 — Peak Build** | Jul 5 – Aug 8, 2027 | 41–45 | 14–15 h | Race-specific intensity, long bricks |
+| ⚫ **Phase 5 — Taper** | Aug 9 – Sep 5, 2027 | 46–49 | 8→3 h | Shed fatigue, stay sharp |
 
 ---
 

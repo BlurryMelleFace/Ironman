@@ -1,6 +1,6 @@
 # Krafttraining — IRONMAN Belgium 2027
 
-> Zwei Krafteinheiten pro Woche: **Beine (Montag)** und **OK / Oberkörper (Sonntag)**.
+> Zwei Krafteinheiten pro Woche: **Beine (Dienstag, nach dem lockeren Lauf)** und **kurz OK/Core (Sonntag)**.
 > Alle Übungen basieren auf deinen eigenen Präferenzen angepasst auf Triathlon-Ziele.
 
 ---
@@ -9,7 +9,7 @@
 
 - **Minimaleffektive Dosis:** Gerade genug Kraft, um verletzungsfrei zu bleiben und die Ausdauerleistung zu unterstützen. Nicht mehr.
 - **Periodisierung:** Drei Phasen — Gewöhnung → Kraft → Erhaltung.
-- **Timing:** Krafttraining so planen, dass es die Haupteinheiten nicht sabotiert. Montag Beine ist ideal, weil Dienstag nur ein lockerer Lauf folgt.
+- **Timing:** Krafttraining so planen, dass es die Haupteinheiten nicht sabotiert. Beine folgen am Dienstag auf den lockeren Lauf; Montag bleibt ein vollständiger Ruhetag und Mittwoch locker.
 - **Kein Muskelversagen.** Die letzten 2–3 Wiederholungen dürfen anstrengend sein, aber die Form muss immer sauber bleiben.
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-## 💪 KRAFT BEINE — Montag
+## 💪 KRAFT BEINE — Dienstag
 
 > Ziel: Kraftausdauer in Quadrizeps, Hamstrings, Gesäß, Wade. Direkt auf Laufen und Radfahren übertragbar.
 
@@ -57,33 +57,32 @@
 
 ---
 
-## 💪 KRAFT OK (Oberkörper) — Sonntag
+## 💪 KRAFT OK (Oberkörper/Core) — Sonntag
 
-> Ziel: Schulter- und Rumpfstabilität für den Schwimmzug, Ermüdungsresistenz auf dem Rad. **Nach** dem Easy Bike ausführen oder getrennt.
+> Ziel: Schulter- und Rumpfstabilität für den Schwimmzug. Kurz halten (20–30 min) und nach dem Long Run oder getrennt ausführen; kein zusätzliches Radtraining an diesem Tag.
 
 ### Übungen
 
 | Übung | Phase 1 | Phase 2 | Phase 3–4 | Technikhinweis |
 |---|---|---|---|---|
-| **Brustpresse oder Kurzhantel Schrägbank** | 3 × 12 | 3–4 × 8–10 | 2 × 10 | Schrägbank (30–45°) bevorzugen → trifft auch die vordere Schulter besser für den Schwimmzug · Langsam ablassen (3 Sek) |
-| **Überzüge (DB Pullover) oder Latzug** | 3 × 12 | 3–4 × 10 | 2 × 10 | Überzüge: Latissimus-Dehnung und -Zug · Latzug: Ellenbogen zu den Rippen ziehen, Brust hoch |
-| **Schulterdrücken (Kurzhanteln oder Stange)** | 3 × 12 | 3 × 10 | 2 × 8 | Sitzend oder stehend. Kernspannung halten. Kein Hohlkreuz |
-| **Trizeps Pushdowns (Kabel oder Band)** | 3 × 12 | 3 × 12 | 2 × 12 | Ellenbogen fest an der Seite. Volle Streckung. Langsam zurück |
-| **Curls (Kurzhanteln oder Kabel)** | 3 × 12 | 3 × 10 | 2 × 10 | Supinierter Griff. Schultern ruhig. Kontrollierte Bewegung |
-| **Core (Wahl aus Liste oben)** | 2 Übungen | 2 Übungen | 1 Übung | — |
+| **Brustpresse oder Kurzhantel Schrägbank** | 2 × 10–12 | 2–3 × 8–10 | 1–2 × 10 | Schrägbank (30–45°) bevorzugen → trifft auch die vordere Schulter besser für den Schwimmzug · Langsam ablassen (3 Sek) |
+| **Überzüge (DB Pullover) oder Latzug** | 2 × 10–12 | 2–3 × 10 | 1–2 × 10 | Überzüge: Latissimus-Dehnung und -Zug · Latzug: Ellenbogen zu den Rippen ziehen, Brust hoch |
+| **Schulterdrücken (Kurzhanteln oder Stange)** | 2 × 10–12 | 2 × 10 | 1–2 × 8 | Sitzend oder stehend. Kernspannung halten. Kein Hohlkreuz |
+| **Trizeps Pushdowns (Kabel oder Band)** | 2 × 12 | 2 × 12 | 1–2 × 12 | Ellenbogen fest an der Seite. Volle Streckung. Langsam zurück |
+| **Curls (Kurzhanteln oder Kabel)** | 2 × 12 | 2 × 10 | 1–2 × 10 | Supinierter Griff. Schultern ruhig. Kontrollierte Bewegung |
+| **Core (Wahl aus Liste oben)** | 1 Übung | 1–2 Übungen | 1 Übung | — |
 
 ### Reihenfolge Sonntag
 
-1. 🚴 Easy Bike 2h+ (fertig werden, trinken)
-2. 10 min Pause
-3. 💪 OK Kraft — Brustpresse → Überzüge/Latzug → Schulterdrücken → Trizeps → Curls → Core
-4. 5 min Stretching Brust + Schultern + Hüfte
+1. 🏃 Long Run locker und kontrolliert
+2. 💪 Wähle 3–4 Oberkörper/Core-Übungen, je 1–2 Sätze (20–30 min)
+3. Bei hoher Laufmüdigkeit Kraft auslassen
 
 ---
 
 ## Beispielwoche Krafttraining (Phase 1, Woche 3)
 
-### Montag — Kraft Beine
+### Dienstag — Easy Run + Kraft Beine
 
 | Übung | Sätze × Wdh | Gewicht | Pause |
 |---|---|---|---|
@@ -96,7 +95,7 @@
 
 **Gesamtdauer:** ~55 min
 
-### Sonntag — Easy Bike + Kraft OK
+### Sonntag — Long Run + kurzes Kraft OK/Core
 
 | Übung | Sätze × Wdh | Gewicht | Pause |
 |---|---|---|---|
@@ -107,7 +106,7 @@
 | Curls | 3 × 12 | Leicht | 60 Sek |
 | Pallof Press | 2 × 10 pro Seite | Band/Kabel leicht | 45 Sek |
 
-**Gesamtdauer Kraft:** ~45–50 min
+**Gesamtdauer Kraft:** ~20–30 min; bei hoher Laufmüdigkeit auslassen
 
 ---
 

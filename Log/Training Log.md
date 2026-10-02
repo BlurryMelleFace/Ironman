@@ -25,115 +25,21 @@
 
 ---
 
-## PHASE 1 — FOUNDATION
+## Aktuelle Woche
 
-### Week 1 (5.–11. Okt 2026) · Target: ~7 h
+Die Liste gruppiert Wochen automatisch nach Status. Die aktuelle Woche steht oben; Ist-Stunden und Key-Session-Werte lassen sich direkt in der Tabelle pflegen. Öffne den Wochenlink für den vollständigen Tageslog.
 
-| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
-|---|---|---|---|---|---|
-| Mo 5 Okt | 💪 Kraft Beine | Session A, 55 min | | | |
-| Di 6 Okt | 🏃 Easy Run | 8 km sehr locker | | | |
-| Mi 7 Okt | 🏊 Schwimmen | 400m TT + Technik, 50 min | | | |
-| Do 8 Okt | ⚡ Double | Bike 45 min Z2 + Run 20 min | | | |
-| Fr 9 Okt | 🏊 Swim Technik + 🚴 Easy Bike | 40 min + 45 min | | | |
-| Sa 10 Okt | 🏃 Long Run | 12 km Z2 (5km TT Di als Baseline) | | | |
-| So 11 Okt | 🚴 Easy Bike + 💪 Kraft OK | 1:30 h + 45 min | | | |
-| **Gesamtwoche** | | **~7 h** | | | |
+![[Training Weeks.base]]
 
-**Wochenreflexion:**
-- Was lief gut?
-- Was war schwerer als erwartet?
-- Erholungsqualität (1–5):
-- Anpassungen für nächste Woche?
+### Neue Woche anlegen
 
----
+1. Erstelle eine Notiz in `Log/Weeks` mit Namen `W02 2026-10-05` (Wochennummer und Montag als Datum).
+2. Füge mit dem Obsidian-Befehl **Templates: Insert template** die Vorlage [[Templates/Weekly Training Log Template]] ein.
+3. Trage Start/Ende, Phase und Sollwerte aus [[../Plan/03 Week by Week Schedule]] ein. Die Bases-Übersicht sortiert sie automatisch.
 
-### Week 2 (12.–18. Okt 2026) · Target: ~7.5 h
+### Woche 1 · 28. Sep–4. Okt 2026 · verkürzter Einstieg
 
-| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
-|---|---|---|---|---|---|
-| Mo 12 Okt | 💪 Kraft Beine | Session A+, 55 min | | | |
-| Di 13 Okt | 🏃 Easy Run | 8 km sehr locker | | | |
-| Mi 14 Okt | 🏊 Schwimmen | 1.100m Ausdauer | | | |
-| Do 15 Okt | ⚡ Double | Bike 50 min + Run 25 min | | | |
-| Fr 16 Okt | 🏊 Swim Technik + 🚴 Easy Bike | 40 min + 50 min | | | |
-| Sa 17 Okt | 🏃 Long Run | 13 km Z2 | | | |
-| So 18 Okt | 🚴 Easy Bike + 💪 Kraft OK | 1:45 h + 45 min | | | |
-| **Gesamtwoche** | | **~7.5 h** | | | |
-
-**Wochenreflexion:**
-- Was lief gut?
-- Was war schwerer als erwartet?
-- Erholungsqualität (1–5):
-
----
-
-### Week 3 (19.–25. Okt 2026) · Target: ~8.5 h
-
-| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
-|---|---|---|---|---|---|
-| Mo 19 Okt | 💪 Kraft Beine | Session B, 55 min | | | |
-| Di 20 Okt | 🏃 Easy Run | 8 km sehr locker | | | |
-| Mi 21 Okt | 🏊 Schwimmen | 1.300m Intervalle | | | |
-| Do 22 Okt | ⚡ Double | Bike 55 min Z3 + Run 25 min | | | |
-| Fr 23 Okt | 🏊 Swim Technik + 🚴 Easy Bike | 45 min + 55 min | | | |
-| Sa 24 Okt | 🏃 Long Run | 14 km Z2 | | | |
-| So 25 Okt | 🚴 Easy Bike + 💪 Kraft OK | 2:00 h + 45 min | | | |
-| **Gesamtwoche** | | **~8.5 h** | | | |
-
-**Wochenreflexion:**
-- Was lief gut?
-- Was war schwerer als erwartet?
-- Erholungsqualität (1–5):
-
----
-
-### Week 4 (26. Okt–1. Nov 2026) · 🔄 RECOVERY WEEK · Target: ~5.5 h
-
-| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
-|---|---|---|---|---|---|
-| Mo 26 Okt | 💪 Kraft Beine (leicht) | Session A, -30% Gewicht | | | |
-| Di 27 Okt | 🏃 Easy Run | 5 km sehr locker | | | |
-| Mi 28 Okt | 🏊 Schwimmen | 35–40 min, nur Technik | | | |
-| Do 29 Okt | 🚴 Easy Bike | 35–40 min, kein Intervall | | | |
-| Fr 30 Okt | 🏊 Easy Swim | 30 min locker | | | |
-| Sa 31 Okt | 🏃 Leichter Lauf | 9 km sehr locker | | | |
-| So 1 Nov | 🚴 Easy Bike + 💪 Kraft OK (leicht) | 1:30 h + 30 min | | | |
-| **Gesamtwoche** | | **~5.5 h** | | | |
-
-**End of 4-week block check:**
-- [ ] Swim baseline recorded in [[../Support/Baseline Tests]]
-- [ ] Run 5 km TT recorded
-- [ ] Bike 30-min effort noted
-- [ ] Long session durations logged in Baseline Tests
-
----
-
-## Log-Vorlage (für jede weitere Woche kopieren)
-
-> Diese Vorlage ab Woche 5 verwenden und anpassen.
-
-```
-### Woche [NUMMER] ([DATUM]) · [PHASE] · Ziel: ~[X] h
-
-| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
-|---|---|---|---|---|---|
-| Mo | 💪 Kraft Beine | | | | |
-| Di | 🏃 Easy Run ~8 km | | | | |
-| Mi | 🏊 Schwimmen | | | | |
-| Do | ⚡ Double: Bike + Run | | | | |
-| Fr | 🏊 Swim Technik + 🚴 Easy Bike | | | | |
-| Sa | 🏃 Long Run | | | | |
-| So | 🚴 Easy Bike + 💪 Kraft OK | | | | |
-| **Gesamtwoche** | | **~[X] h** | | | |
-
-**Wochenreflexion:**
-- Was lief gut?
-- Was war schwerer als erwartet?
-- Erholungsqualität (1–5):
-- Benchmark-Test Ergebnisse (falls Testwoche):
-- Anpassungen?
-```
+Der Trainingsstart ist Freitag, 2. Oktober. Der Tageslog für diese Woche steht in [[Weeks/W01 2026-09-28]]. Basistests sind auf Woche 2 verschoben.
 
 ---
 
