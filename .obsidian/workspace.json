@@ -11,14 +11,13 @@
             "id": "8ad7edc3fad55910",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Log/Weeks/W27 2027-03-29.md",
-                "mode": "preview",
-                "source": false
+                "file": "Log/Training Weeks.base",
+                "viewName": "Wochenlog"
               },
-              "icon": "lucide-file",
-              "title": "W27 2027-03-29"
+              "icon": "lucide-table",
+              "title": "Training Weeks"
             }
           }
         ]
@@ -188,6 +187,9 @@
   },
   "active": "8ad7edc3fad55910",
   "lastOpenFiles": [
+    "Log/Messwerte.md",
+    "Log/Training Weeks.base",
+    "Log/Weeks/W27 2027-03-29.md",
     "Log/Weeks/W01 2026-09-28.md",
     "Log/Weeks/W03 2026-10-12.md",
     "Log/Weeks/W02 2026-10-05.md",

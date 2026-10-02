@@ -26,7 +26,6 @@
 | 🔄 Recovery & Adjustments | [[Support/Recovery and Adjustments]] |
 | 📏 Baseline Tests | [[Support/Baseline Tests]] |
 | 📊 Messwerte | [[Log/Messwerte]] |
-| 🚴 Strava Aktivitäten | [[Log/Strava]] |
 
 ---
 
@@ -71,7 +70,7 @@
 
 ## 📝 Weekly Log (Latest Entry)
 
-> Full metrics log → [[Log/Messwerte]] · Strava activities → [[Log/Strava]]
+> Training metrics and weekly logs → [[Log/Messwerte]]
 
 | Date | Discipline | Planned | Completed | RPE (1–10) | Notes |
 |---|---|---|---|---|---|

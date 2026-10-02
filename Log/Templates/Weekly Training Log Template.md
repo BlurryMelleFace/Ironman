@@ -4,16 +4,18 @@ week_number:
 week_start: 
 week_end: 
 phase: 
-planned_hours: 
-actual_hours: 
-planned_long_bike: 
-actual_long_bike: 
-planned_long_run: 
-actual_long_run: 
-planned_swim: 
-actual_swim: 
-planned_quality: 
-actual_quality: 
+hours_planned: 
+hours_actual: 
+long_bike_planned: 
+long_bike_actual: 
+long_run_planned: 
+long_run_actual: 
+swim_planned: 
+swim_actual: 
+quality_planned: 
+quality_actual: 
+strength_planned: 
+strength_actual: 
 rpe: 
 week_notes: 
 ---
@@ -26,12 +28,16 @@ week_notes:
 | Tag | Soll | Ist | RPE | Notizen |
 |---|---|---|---|---|
 | Mo | Ruhetag | | | |
-| Di | Easy Run + Kraft Beine | | | |
+| Di | Easy Run | | | |
+| Di | Kraft Beine | | | |
 | Mi | Schwimmen | | | |
-| Do | Bike Quality + kurzer Brick | | | |
-| Fr | Technik-Schwimmen + optional Easy Bike | | | |
+| Do | Bike Quality | | | |
+| Do | Kurzer Brick Run | | | |
+| Fr | Technik-Schwimmen | | | |
+| Fr | Optional Easy Bike | | | |
 | Sa | Long Bike | | | |
-| So | Long Run + kurzes OK/Core | | | |
+| So | Long Run | | | |
+| So | Kurzes Oberkörper/Core | | | |
 
 **Wochenreflexion**
 - Was lief gut?

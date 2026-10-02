@@ -2,7 +2,7 @@
 
 > Log every session here. Consistent logging reveals patterns — when you're fatigued, when your best sessions happen, and which disciplines need attention.
 
-> **Strava/Garmin:** Synced activity detail lives in [[Strava]]. Use this file for training metrics, planned vs. completed, and how you felt.
+> Use this file for training metrics, planned vs. completed, and how you felt.
 
 ---
 
@@ -95,4 +95,4 @@ Der Trainingsstart ist Freitag, 2. Oktober. Der Tageslog für diese Woche steht 
 
 ---
 
-*Back to [[../Dashboard]] · Strava activities → [[Strava]]*
+*Back to [[../Dashboard]]*
