@@ -27,79 +27,79 @@
 
 ## PHASE 1 — FOUNDATION
 
-### Week 1 (Oct 2–8, 2026) · Target: ~6 h
+### Week 1 (5.–11. Okt 2026) · Target: ~7 h
 
-| Date | Discipline | Planned | Completed | RPE | Notes |
+| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
 |---|---|---|---|---|---|
-| Thu 2 Oct | Swim | 400m TT + drills, 50 min | | | |
-| Fri 3 Oct | Rest | — | | | |
-| Sat 4 Oct | Bike | 2:00 h aerobic Z2 | | | |
-| Sun 5 Oct | Run | 5 km TT + warm-up/cool-down | | | |
-| Mon 6 Oct | Strength | Session A1, 55 min | | | |
-| Tue 7 Oct | Swim | Technique S1, 45 min | | | |
-| Wed 8 Oct | Run | 45 min easy Z2 | | | |
-| **Week total** | | **~6 h** | | | |
+| Mo 5 Okt | 💪 Kraft Beine | Session A, 55 min | | | |
+| Di 6 Okt | 🏃 Easy Run | 8 km sehr locker | | | |
+| Mi 7 Okt | 🏊 Schwimmen | 400m TT + Technik, 50 min | | | |
+| Do 8 Okt | ⚡ Double | Bike 45 min Z2 + Run 20 min | | | |
+| Fr 9 Okt | 🏊 Swim Technik + 🚴 Easy Bike | 40 min + 45 min | | | |
+| Sa 10 Okt | 🏃 Long Run | 12 km Z2 (5km TT Di als Baseline) | | | |
+| So 11 Okt | 🚴 Easy Bike + 💪 Kraft OK | 1:30 h + 45 min | | | |
+| **Gesamtwoche** | | **~7 h** | | | |
 
-**Weekly reflection:**
-- What went well?
-- What was harder than expected?
-- Recovery quality (1–5):
-- Plan adjustments for next week?
+**Wochenreflexion:**
+- Was lief gut?
+- Was war schwerer als erwartet?
+- Erholungsqualität (1–5):
+- Anpassungen für nächste Woche?
 
 ---
 
-### Week 2 (Oct 9–15, 2026) · Target: ~6.5 h
+### Week 2 (12.–18. Okt 2026) · Target: ~7.5 h
 
-| Date | Discipline | Planned | Completed | RPE | Notes |
+| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
 |---|---|---|---|---|---|
-| Thu 9 Oct | Swim | Endurance S2, 50 min | | | |
-| Fri 10 Oct | Rest | — | | | |
-| Sat 11 Oct | Bike | 2:00 h Z2 | | | |
-| Sun 12 Oct | Run | 55 min easy long run | | | |
-| Mon 13 Oct | Strength | Session A1 (heavier), 55 min | | | |
-| Tue 14 Oct | Swim | Drills S1, 45 min | | | |
-| Wed 15 Oct | Run | 40 min easy Z2 | | | |
-| **Week total** | | **~6.5 h** | | | |
+| Mo 12 Okt | 💪 Kraft Beine | Session A+, 55 min | | | |
+| Di 13 Okt | 🏃 Easy Run | 8 km sehr locker | | | |
+| Mi 14 Okt | 🏊 Schwimmen | 1.100m Ausdauer | | | |
+| Do 15 Okt | ⚡ Double | Bike 50 min + Run 25 min | | | |
+| Fr 16 Okt | 🏊 Swim Technik + 🚴 Easy Bike | 40 min + 50 min | | | |
+| Sa 17 Okt | 🏃 Long Run | 13 km Z2 | | | |
+| So 18 Okt | 🚴 Easy Bike + 💪 Kraft OK | 1:45 h + 45 min | | | |
+| **Gesamtwoche** | | **~7.5 h** | | | |
 
-**Weekly reflection:**
-- What went well?
-- What was harder than expected?
-- Recovery quality (1–5):
+**Wochenreflexion:**
+- Was lief gut?
+- Was war schwerer als erwartet?
+- Erholungsqualität (1–5):
 
 ---
 
-### Week 3 (Oct 16–22, 2026) · Target: ~7 h
+### Week 3 (19.–25. Okt 2026) · Target: ~8.5 h
 
-| Date | Discipline | Planned | Completed | RPE | Notes |
+| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
 |---|---|---|---|---|---|
-| Thu 16 Oct | Swim | S2 intervals, 55 min | | | |
-| Fri 17 Oct | Rest | — | | | |
-| Sat 18 Oct | Bike | 2:15 h Z2 long ride | | | |
-| Sun 19 Oct | Run | 1:05 h long run Z2 | | | |
-| Mon 20 Oct | Strength | Session A2, 55 min | | | |
-| Tue 21 Oct | Swim | S2 mixed, 50 min | | | |
-| Wed 22 Oct | Run | 45 min Z2 + strides | | | |
-| **Week total** | | **~7 h** | | | |
+| Mo 19 Okt | 💪 Kraft Beine | Session B, 55 min | | | |
+| Di 20 Okt | 🏃 Easy Run | 8 km sehr locker | | | |
+| Mi 21 Okt | 🏊 Schwimmen | 1.300m Intervalle | | | |
+| Do 22 Okt | ⚡ Double | Bike 55 min Z3 + Run 25 min | | | |
+| Fr 23 Okt | 🏊 Swim Technik + 🚴 Easy Bike | 45 min + 55 min | | | |
+| Sa 24 Okt | 🏃 Long Run | 14 km Z2 | | | |
+| So 25 Okt | 🚴 Easy Bike + 💪 Kraft OK | 2:00 h + 45 min | | | |
+| **Gesamtwoche** | | **~8.5 h** | | | |
 
-**Weekly reflection:**
-- What went well?
-- What was harder than expected?
-- Recovery quality (1–5):
+**Wochenreflexion:**
+- Was lief gut?
+- Was war schwerer als erwartet?
+- Erholungsqualität (1–5):
 
 ---
 
-### Week 4 (Oct 27–Nov 2, 2026) · 🔄 RECOVERY WEEK · Target: ~4.5 h
+### Week 4 (26. Okt–1. Nov 2026) · 🔄 RECOVERY WEEK · Target: ~5.5 h
 
-| Date | Discipline | Planned | Completed | RPE | Notes |
+| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
 |---|---|---|---|---|---|
-| Mon 27 Oct | Rest | — | | | |
-| Tue 28 Oct | Swim | Easy technique, 35 min | | | |
-| Wed 29 Oct | Run | Very easy, 30 min | | | |
-| Thu 30 Oct | Bike | Easy spin, 45 min | | | |
-| Fri 31 Oct | Rest | — | | | |
-| Sat 1 Nov | Swim | Easy Z2, 35 min | | | |
-| Sun 2 Nov | Walk/jog | 30 min Z1 | | | |
-| **Week total** | | **~4.5 h** | | | |
+| Mo 26 Okt | 💪 Kraft Beine (leicht) | Session A, -30% Gewicht | | | |
+| Di 27 Okt | 🏃 Easy Run | 5 km sehr locker | | | |
+| Mi 28 Okt | 🏊 Schwimmen | 35–40 min, nur Technik | | | |
+| Do 29 Okt | 🚴 Easy Bike | 35–40 min, kein Intervall | | | |
+| Fr 30 Okt | 🏊 Easy Swim | 30 min locker | | | |
+| Sa 31 Okt | 🏃 Leichter Lauf | 9 km sehr locker | | | |
+| So 1 Nov | 🚴 Easy Bike + 💪 Kraft OK (leicht) | 1:30 h + 30 min | | | |
+| **Gesamtwoche** | | **~5.5 h** | | | |
 
 **End of 4-week block check:**
 - [ ] Swim baseline recorded in [[../Support/Baseline Tests]]
@@ -109,30 +109,30 @@
 
 ---
 
-## Log Template (copy for each new week)
+## Log-Vorlage (für jede weitere Woche kopieren)
 
-> Copy this block and fill in for each week from Week 5 onwards.
+> Diese Vorlage ab Woche 5 verwenden und anpassen.
 
 ```
-### Week [NUMBER] ([DATE RANGE]) · [PHASE] · Target: ~[X] h
+### Woche [NUMMER] ([DATUM]) · [PHASE] · Ziel: ~[X] h
 
-| Date | Discipline | Planned | Completed | RPE | Notes |
+| Datum | Einheit | Geplant | Absolviert | RPE | Notizen |
 |---|---|---|---|---|---|
-| [Day] | Swim | | | | |
-| [Day] | Rest/Walk | — | | | |
-| [Day] | Bike | | | | |
-| [Day] | Run | | | | |
-| [Day] | Strength | | | | |
-| [Day] | Swim | | | | |
-| [Day] | Run | | | | |
-| **Week total** | | **~[X] h** | | | |
+| Mo | 💪 Kraft Beine | | | | |
+| Di | 🏃 Easy Run ~8 km | | | | |
+| Mi | 🏊 Schwimmen | | | | |
+| Do | ⚡ Double: Bike + Run | | | | |
+| Fr | 🏊 Swim Technik + 🚴 Easy Bike | | | | |
+| Sa | 🏃 Long Run | | | | |
+| So | 🚴 Easy Bike + 💪 Kraft OK | | | | |
+| **Gesamtwoche** | | **~[X] h** | | | |
 
-**Weekly reflection:**
-- What went well?
-- What was harder than expected?
-- Recovery quality (1–5):
-- Benchmark test results (if test week):
-- Plan adjustments?
+**Wochenreflexion:**
+- Was lief gut?
+- Was war schwerer als erwartet?
+- Erholungsqualität (1–5):
+- Benchmark-Test Ergebnisse (falls Testwoche):
+- Anpassungen?
 ```
 
 ---

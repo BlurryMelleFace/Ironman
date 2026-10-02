@@ -28,11 +28,11 @@
 
 **Target: 7–8 h/week · Week 8 = Recovery week**
 
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|---|---|---|---|---|---|---|
-| **3 🔄** | 4 | 5 | 6 | 7 | 8 | 9 |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| Mon       | Tue       | Wed       | Thu       | Fri       | Sat       | Sun       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| **3 🔄**  | 4         | 5         | 6         | 7         | 8         | 9         |
+| 10        | 11        | 12        | 13        | 14        | 15        | 16        |
+| 17        | 18        | 19        | 20        | 21        | 22        | 23        |
 | **24 🔄** | **25 🔄** | **26 🔄** | **27 🔄** | **28 🔄** | **29 🔄** | **30 🔄** |
 
 🔄 = Recovery week (Wk 8, Nov 24–30)
@@ -220,13 +220,13 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | **7** |
 | **1** | **2** | **3** | **4 🏁** | | | |
 
-| Date | Activity |
-|---|---|
-| Mon Sep 1 | Travel to Knokke-Heist, check in |
-| Tue Sep 2 | Easy 20-min swim, 30-min bike, short run — just to move |
-| Wed Sep 3 | Registration & bike check-in at expo, 20-min easy jog |
-| Thu Sep 4 | Rest. Short 10-min swim. Bike racked. Gear bags sorted. Early dinner, early bed |
-| **Fri Sep 5** | **🏁 IRONMAN BELGIUM — RACE DAY** |
+| Date          | Activity                                                                        |
+| ------------- | ------------------------------------------------------------------------------- |
+| Mon Sep 1     | Travel to Knokke-Heist, check in                                                |
+| Tue Sep 2     | Easy 20-min swim, 30-min bike, short run — just to move                         |
+| Wed Sep 3     | Registration & bike check-in at expo, 20-min easy jog                           |
+| Thu Sep 4     | Rest. Short 10-min swim. Bike racked. Gear bags sorted. Early dinner, early bed |
+| **Fri Sep 5** | **🏁 IRONMAN BELGIUM — RACE DAY**                                               |
 
 ---
 

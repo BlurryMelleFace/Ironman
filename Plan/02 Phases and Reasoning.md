@@ -21,7 +21,7 @@ Oct 2026        Jan 2027        Apr 2027        Jul 2027        Sep 2027
 
 ## Phase 1 — Foundation (Weeks 1–13 · Oct 2 – Dec 28, 2026)
 
-**Weekly hours: 6–9 h · Recovery weeks: Wk 4, 8, 12**
+**Weekly hours: 7–10 h · Recovery weeks: Wk 4, 8, 12**
 
 ### Purpose
 Build the *habit of training*, establish movement patterns, and start developing your aerobic engine. This phase feels deceptively easy — that's intentional.
@@ -45,18 +45,19 @@ Strength training is at its highest frequency here (2×/week) because you have m
 | Discipline | Sessions/wk | Priority |
 |---|---|---|
 | Swim | 3 | 🔴 Highest |
-| Bike | 2–3 | 🟡 Medium |
-| Run | 3 | 🟡 Medium |
+| Bike | 3 | 🟡 Medium |
+| Run | 3–4 | 🟡 Medium |
 | Strength | 2 | 🟢 Supporting |
+| Active Recovery | Daily (where no other session) | 🟢 Essential |
 
 ### Intensity
-~90% Zone 1–2. This is where most people go wrong — they go too hard too early and accumulate fatigue that stunts aerobic development. Be patient. The speed comes later.
+~90% Zone 1–2. **No full rest days** — instead, any day without a structured session gets a 30–45 min active recovery session (easy swim, walk, or mobility). This keeps blood flowing and habits consistent without adding training stress.
 
 ---
 
 ## Phase 2 — Base Build (Weeks 14–26 · Dec 29, 2026 – Mar 28, 2027)
 
-**Weekly hours: 8–11 h · Recovery weeks: Wk 17, 21, 25**
+**Weekly hours: 10–13 h · Recovery weeks: Wk 17, 21, 25**
 
 ### Purpose
 Now that movement patterns and habits are established, you progressively increase *volume* — particularly on the bike and in the pool. This is where your aerobic engine truly develops.
@@ -78,15 +79,16 @@ Winter in Germany also means indoor cycling on the trainer is the norm. Structur
 | Discipline | Sessions/wk | Priority |
 |---|---|---|
 | Swim | 3 | 🔴 High |
-| Bike | 3 | 🔴 High |
-| Run | 3 | 🟡 Medium |
+| Bike | 3–4 | 🔴 High |
+| Run | 4 | 🟡 Medium |
 | Strength | 1–2 | 🟢 Supporting |
+| Active Recovery | Daily (where no other session) | 🟢 Essential |
 
 ---
 
 ## Phase 3 — Pre-Exam Maintenance (Weeks 27–40 · Mar 29 – Jul 4, 2027)
 
-**Weekly hours: 6–8 h · Recovery weeks: Wk 30, 34, 38**
+**Weekly hours: 7–9 h · Recovery weeks: Wk 30, 34, 38**
 
 ### Purpose
 *Protect and maintain.* You have an important exam at the beginning of July. Sustained high training load during exam preparation is associated with increased illness risk, poor recovery, and performance decline in both fitness and cognitive performance. This phase holds your fitness gains without pushing into fatigue.
@@ -119,7 +121,7 @@ This is a deliberate coaching decision. Thirteen weeks of maintenance at 6–8 h
 
 ## Phase 4 — Peak Build (Weeks 41–49 · Jul 5 – Aug 8, 2027)
 
-**Weekly hours: 12–15 h · Recovery week: Wk 44, 48**
+**Weekly hours: 14–15 h · Recovery week: Wk 44, 48**
 
 ### Purpose
 This is your highest-volume, most race-specific training block. You're now 9 weeks from race day with the exam behind you. This is when you simulate race conditions, do your longest training sessions, and dial in your nutrition and pacing strategy.
@@ -141,7 +143,7 @@ Every long session should include your planned race nutrition — gels, bars, or
 
 ## Phase 5 — Taper (Weeks 50–53 · Aug 9 – Sep 5, 2027)
 
-**Weekly hours: 10 → 6 → 4 → 3**
+**Weekly hours: 8 → 5 → 3 → 2**
 
 ### Purpose
 Shed accumulated fatigue while maintaining sharpness. Research consistently shows a 2–3 week exponential taper (volume reduction of 40–60%, maintaining intensity) produces significant performance gains at race day.
@@ -170,6 +172,9 @@ Many athletes make the mistake of either tapering too little (arriving fatigued)
 | Phase 3 (Mar–Jul) | Maintenance | Low volume, preserve gains | 1×/week |
 | Phase 4 (Jul–Aug) | Maintenance | Minimal interference | 1×/week |
 | Phase 5 (Taper) | None | Full recovery priority | — |
+
+> [!NOTE]
+> **Active Recovery vs. Rest:** On days without a structured endurance or strength session, do 30–45 min of genuinely easy movement — an easy swim (no intervals), a brisk walk, or 20 min of mobility/foam rolling. This replaces full rest days and keeps your training habit consistent without adding meaningful load.
 
 ---
 

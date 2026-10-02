@@ -1,162 +1,125 @@
-# Strength Training — IRONMAN Belgium 2027
+# Krafttraining — IRONMAN Belgium 2027
 
-> **Goal:** Build resilience, improve running economy and cycling power, and protect joints — without adding unnecessary bulk or fatigue.
-
-> [!NOTE]
-> **Source:** Evidence-based approach aligned with research on heavy strength training improving running economy (Støren et al., 2008; Paavolainen et al., 1999) and cycling power (Rønnestad & Mujika, 2014). British Triathlon Foundation and TrainingPeaks coaching consensus supports 2×/week in base, reducing to 1× in-season.
+> Zwei Krafteinheiten pro Woche: **Beine (Montag)** und **OK / Oberkörper (Sonntag)**.
+> Alle Übungen basieren auf deinen eigenen Präferenzen angepasst auf Triathlon-Ziele.
 
 ---
 
-## Core Principles
+## Prinzipien
 
-1. **Compound movements only** — exercises that build multiple muscle groups and improve movement patterns relevant to swimming, cycling, and running
-2. **Never train to failure** — always leave 2–3 reps in reserve (avoids CNS fatigue that compromises endurance sessions)
-3. **Progress load, not volume** — increase weight gradually when form is solid, not adding more sets
-4. **Schedule smart** — strength sessions go AFTER endurance sessions on the same day, or on separate days. Never heavy lifting the day before a key endurance session.
+- **Minimaleffektive Dosis:** Gerade genug Kraft, um verletzungsfrei zu bleiben und die Ausdauerleistung zu unterstützen. Nicht mehr.
+- **Periodisierung:** Drei Phasen — Gewöhnung → Kraft → Erhaltung.
+- **Timing:** Krafttraining so planen, dass es die Haupteinheiten nicht sabotiert. Montag Beine ist ideal, weil Dienstag nur ein lockerer Lauf folgt.
+- **Kein Muskelversagen.** Die letzten 2–3 Wiederholungen dürfen anstrengend sein, aber die Form muss immer sauber bleiben.
 
 ---
 
-## Scheduling Around Endurance Training
+## Phasierung
 
-| Phase | Frequency | Timing | Key rule |
+| Trainingsphase | Kraftphase | Fokus | Sätze × Wdh | Häufigkeit |
+|---|---|---|---|---|
+| Phase 1 (Okt–Dez) | Anpassung | Technik, Gewebe vorbereiten | 3 × 12–15 | 2×/Woche |
+| Phase 2 (Jan–Mär) | Kraft | Schwerer, progressive Überladung | 3–4 × 6–10 | 2×/Woche |
+| Phase 3 (Mär–Jul) | Erhaltung | Volumen runter, Gewichte halten | 2 × 8–10 | 1–2×/Woche |
+| Phase 4 (Jul–Aug) | Erhaltung | Minimal, kein Mehraufwand | 2 × 8 | 1×/Woche |
+| Phase 5 (Taper) | Keine | Erholung Vorrang | 1 × 6–8 (sehr leicht) | Optional |
+
+---
+
+## 💪 KRAFT BEINE — Montag
+
+> Ziel: Kraftausdauer in Quadrizeps, Hamstrings, Gesäß, Wade. Direkt auf Laufen und Radfahren übertragbar.
+
+### Übungen
+
+| Übung | Phase 1 | Phase 2 | Phase 3–4 | Technikhinweis |
+|---|---|---|---|---|
+| **RDL — beidbeinig oder einbeinig** | 3 × 12 | 3–4 × 8 | 2 × 10 | Hüftgelenk, nicht Knie. Rücken gerade. Spür die Hamstrings. Einbeinig = mehr Core |
+| **Squats (Fersen erhöht)** | 3 × 12 | 3–4 × 8 | 2 × 10 | Fersen auf Scheibe oder Keil → mehr Quadrizeps. Knie über Zehen ok. Tiefe so tief wie möglich |
+| **Split Squats mit Kurzhanteln** | 3 × 10 pro Seite | 3–4 × 8 | 2 × 8 | Hinteres Knie sinkt langsam ab, 3 Sek runter · 1 hoch. Vorderfuß bleibt komplett am Boden |
+| **Wadenheben (einbeinig oder beidbeinig)** | 3 × 15 | 3 × 15–20 | 2 × 15 | Volle Bewegungsreichweite. Langsam unten raus. Achillessehne schützen = Pflicht |
+| **Core (Wahl aus Liste unten)** | 2 Übungen | 2–3 Übungen | 1–2 Übungen | Immer kontrolliert, nie schnell |
+
+### Core-Auswahl (2 pro Einheit wählen, rotieren)
+
+| Übung | Ausführung |
+|---|---|
+| Plank | 3 × 30–60 Sek, Becken neutral |
+| Dead Bug | 3 × 8 pro Seite, Lendenwirbelsäule am Boden |
+| Pallof Press (Band oder Kabel) | 3 × 10 pro Seite, Rotation widerstehen |
+| Side Plank | 2 × 30 Sek pro Seite |
+| Hanging Leg Raise | 2 × 10, kontrolliert |
+| Glute Bridge (zweieinig oder Hip Thrust) | 3 × 15, volle Hüftstreckung oben |
+
+### Gewichtssteigerung
+
+> Steigere das Gewicht um die kleinstmögliche Einheit, sobald alle Wiederholungen sauber ausgeführt werden und sich leicht anfühlen. Nie um mehr als 5% pro Woche erhöhen.
+
+---
+
+## 💪 KRAFT OK (Oberkörper) — Sonntag
+
+> Ziel: Schulter- und Rumpfstabilität für den Schwimmzug, Ermüdungsresistenz auf dem Rad. **Nach** dem Easy Bike ausführen oder getrennt.
+
+### Übungen
+
+| Übung | Phase 1 | Phase 2 | Phase 3–4 | Technikhinweis |
+|---|---|---|---|---|
+| **Brustpresse oder Kurzhantel Schrägbank** | 3 × 12 | 3–4 × 8–10 | 2 × 10 | Schrägbank (30–45°) bevorzugen → trifft auch die vordere Schulter besser für den Schwimmzug · Langsam ablassen (3 Sek) |
+| **Überzüge (DB Pullover) oder Latzug** | 3 × 12 | 3–4 × 10 | 2 × 10 | Überzüge: Latissimus-Dehnung und -Zug · Latzug: Ellenbogen zu den Rippen ziehen, Brust hoch |
+| **Schulterdrücken (Kurzhanteln oder Stange)** | 3 × 12 | 3 × 10 | 2 × 8 | Sitzend oder stehend. Kernspannung halten. Kein Hohlkreuz |
+| **Trizeps Pushdowns (Kabel oder Band)** | 3 × 12 | 3 × 12 | 2 × 12 | Ellenbogen fest an der Seite. Volle Streckung. Langsam zurück |
+| **Curls (Kurzhanteln oder Kabel)** | 3 × 12 | 3 × 10 | 2 × 10 | Supinierter Griff. Schultern ruhig. Kontrollierte Bewegung |
+| **Core (Wahl aus Liste oben)** | 2 Übungen | 2 Übungen | 1 Übung | — |
+
+### Reihenfolge Sonntag
+
+1. 🚴 Easy Bike 2h+ (fertig werden, trinken)
+2. 10 min Pause
+3. 💪 OK Kraft — Brustpresse → Überzüge/Latzug → Schulterdrücken → Trizeps → Curls → Core
+4. 5 min Stretching Brust + Schultern + Hüfte
+
+---
+
+## Beispielwoche Krafttraining (Phase 1, Woche 3)
+
+### Montag — Kraft Beine
+
+| Übung | Sätze × Wdh | Gewicht | Pause |
 |---|---|---|---|
-| Phase 1 (Oct–Dec) | 2×/week | Monday after weekend sessions | Don't lift the day before a hard swim/bike |
-| Phase 2 (Jan–Mar) | 2×/week → 1× | Monday or Tuesday | Reduce to 1× when weekly volume exceeds 10 h |
-| Phase 3 (Apr–Jul) | 1×/week | Any low-volume day | Maintenance only |
-| Phase 4 (Jul–Aug) | 1×/week | Monday (rest day) | Minimal interference |
-| Phase 5 (Taper) | None | — | Rest completely |
+| RDL beidbeinig | 3 × 12 | Leicht–mittel | 90 Sek |
+| Squats Fersen erhöht | 3 × 12 | Leicht–mittel | 90 Sek |
+| Split Squats KH | 3 × 10 pro Seite | Leicht | 90 Sek |
+| Wadenheben | 3 × 15 | Bodyweight oder leicht | 60 Sek |
+| Dead Bug | 2 × 8 pro Seite | — | 45 Sek |
+| Plank | 2 × 40 Sek | — | 30 Sek |
 
-**Best days for strength:** Monday (after Saturday long ride + Sunday long run/brick).
-Your body has processed the weekend sessions, and you have 4+ days before the next big weekend session.
+**Gesamtdauer:** ~55 min
 
----
+### Sonntag — Easy Bike + Kraft OK
 
-## Strength Phases
-
-### Phase A — Adaptation (Oct–Nov 2026, ~6 weeks)
-
-**Goal:** Learn the movements, build connective tissue tolerance, establish baseline strength.
-
-**Parameters:** 3 sets · 12–15 reps · 60–75% effort · 90 sec rest between sets
-
-> **Choosing weight:** Start lighter than you think. Nail the movement. Increase by the smallest increment when all 15 reps feel easy AND your form is perfect.
-
-#### Session A1 (Lower + Core emphasis)
-
-| # | Exercise | Sets × Reps | Coaching Note |
+| Übung | Sätze × Wdh | Gewicht | Pause |
 |---|---|---|---|
-| 1 | Goblet Squat | 3 × 12 | DB at chest. Hips below parallel. Chest tall. Slow 3 sec down. |
-| 2 | Romanian Deadlift (RDL) | 3 × 12 | Barbell or DBs. Hinge at hips, soft knee, neutral spine. Feel hamstring stretch. |
-| 3 | Reverse Lunge | 3 × 10 each | Step backward. Front knee tracks over toes. Drive up through front heel. |
-| 4 | Lat Pulldown or Pull-up | 3 × 10–12 | Pull elbows to ribs. Chest tall. Squeeze shoulder blades. |
-| 5 | Push-up | 3 × 12 | Full range. Elbows ~45° from body. Elevate hands if needed. |
-| 6 | Dead Bug | 3 × 8 each side | Lower back flat on floor. Move opposite arm/leg slowly. Do not rush. |
-| 7 | Single-leg Calf Raise | 2 × 15 each | Full range, slow. Achilles health. Can do on a step for more range. |
+| KH Schrägbank Presse | 3 × 12 | Leicht–mittel | 90 Sek |
+| Überzüge oder Latzug | 3 × 12 | Leicht–mittel | 90 Sek |
+| Schulterdrücken KH | 3 × 12 | Leicht | 90 Sek |
+| Trizeps Pushdowns | 3 × 12 | Leicht | 60 Sek |
+| Curls | 3 × 12 | Leicht | 60 Sek |
+| Pallof Press | 2 × 10 pro Seite | Band/Kabel leicht | 45 Sek |
 
-#### Session A2 (Single-leg + Upper body emphasis)
-
-| # | Exercise | Sets × Reps | Coaching Note |
-|---|---|---|---|
-| 1 | Split Squat (or Bulgarian Split Squat) | 3 × 10 each | 3 sec descent. Knee doesn't collapse inward. Rear foot elevated = harder. |
-| 2 | Single-leg Deadlift | 3 × 10 each | Balance on one leg, hinge forward. Builds hip stability and hamstring strength. |
-| 3 | Step-up (high step) | 3 × 10 each | Drive through heel. Don't push off back foot. Simulates cycling power. |
-| 4 | Seated Row or DB Row | 3 × 12 | Pull to chest. Elbows stay close. Shoulder blades retract. |
-| 5 | Overhead Press (DB) | 3 × 10 | Neutral grip, press straight up. Shoulder stability for swim. |
-| 6 | Pallof Press | 3 × 10 each | Cable or band at chest height. Press out, hold 2 sec, return. Resist rotation. |
-| 7 | Hip Thrust or Glute Bridge | 3 × 15 | Full hip extension at top. Glutes engaged throughout. Running power. |
+**Gesamtdauer Kraft:** ~45–50 min
 
 ---
 
-### Phase B — Max Strength (Dec–Feb, ~8 weeks)
+## Abkürzungen
 
-**Goal:** Develop neuromuscular recruitment and exercise economy. Heavier loads, fewer reps — this is what improves running economy and cycling power.
-
-**Parameters:** 3–4 sets · 4–6 reps · 80–88% effort (challenging but always with reserve) · 2–3 min rest between sets
-
-> **The shift:** You're lifting heavier with longer rests. This is deliberate. Heavy, low-rep work is what research shows improves endurance performance — not light, high-rep "muscle endurance" training.
-
-#### Session B (2× per week — same exercises, heavier)
-
-| # | Exercise | Sets × Reps | Coaching Note |
-|---|---|---|---|
-| 1 | Barbell Back Squat (or Front Squat) | 4 × 4 | Full depth. Brace your core. Controlled descent, powerful ascent. |
-| 2 | Romanian Deadlift | 4 × 5 | Significantly heavier than Phase A. Maintain spine neutral. |
-| 3 | Bulgarian Split Squat | 3 × 5 each | Add weight (barbell or DBs). Slow descent. |
-| 4 | Weighted Pull-up or Lat Pulldown (heavy) | 3 × 5 | Add belt weight or use heavy stack. |
-| 5 | Single-leg Calf Raise (loaded) | 3 × 8 each | Add weight in hand or on shoulder. Slow, full range. |
-| 6 | Core: Farmer's Carry | 3 × 30 m | Heavy DBs or KBs. Walk upright, do not lean. Core tension. |
-
-**Supplementary (do 1–2 of these):**
-- Hip thrust (heavy barbell): 3 × 6
-- Plank variations: 3 × 30–45 sec
+| Abk. | Bedeutung |
+|---|---|
+| KH | Kurzhantel |
+| RDL | Romanian Deadlift |
+| Wdh | Wiederholungen |
+| Sek | Sekunden |
 
 ---
 
-### Phase C — Maintenance (Mar–Aug, in-season)
-
-**Goal:** Preserve strength gains built in Phases A and B with minimal fatigue cost.
-
-**Parameters:** 2 sets · 3–5 reps · 80–85% of your Phase B peak loads · 2 min rest · 1×/week only
-
-#### Session C (1× per week, ~40 min)
-
-| # | Exercise | Sets × Reps | Notes |
-|---|---|---|---|
-| 1 | Barbell Squat (or heaviest goblet) | 2 × 4 | Hold Phase B weight. Just maintain the neural adaptation. |
-| 2 | Romanian Deadlift | 2 × 4 | Same — heavy, controlled. |
-| 3 | Split Squat | 2 × 4 each | Loaded. |
-| 4 | Pull-up or Row | 2 × 4 | Heavy. |
-| 5 | Calf Raise | 2 × 8 each | Loaded single-leg. |
-
-*Skip core work in maintenance phase — running and swimming provide sufficient core stimulus.*
-
----
-
-## Exercise Descriptions & Common Mistakes
-
-### Goblet / Back Squat
-- **Do:** Sit back and down. Knees track over toes. Chest tall throughout.
-- **Don't:** Let your knees cave inward, or let your heels lift, or lean forward excessively.
-- **Ironman link:** Quad strength for climbing and late-race cycling; hip stability for the run.
-
-### Romanian Deadlift (RDL)
-- **Do:** Hinge at hips first. Barbell stays close to legs. Feel hamstrings load.
-- **Don't:** Round your lower back. Go beyond your hamstring mobility — stop when you feel the stretch.
-- **Ironman link:** Posterior chain strength — the most undertrained area in triathletes.
-
-### Split Squat / Bulgarian Split Squat
-- **Do:** Control the descent 3–4 seconds. Front knee over mid-foot.
-- **Don't:** Let the knee collapse inward or lose torso upright position.
-- **Ironman link:** Single-leg stability critical for running form under fatigue.
-
-### Single-leg Deadlift
-- **Do:** Keep a flat back. Use a wall or kettlebell for balance if needed initially.
-- **Don't:** Let the hip of the standing leg drop (hip hike indicates weakness to address).
-- **Ironman link:** Hip stability and hamstring strength — prevents the late-run "zombie shuffle".
-
-### Pallof Press
-- **Do:** Brace core fully. Press the cable or band straight out. Hold 2 sec. Return slowly.
-- **Don't:** Allow your torso to rotate toward the anchor point.
-- **Ironman link:** Rotational stability — critical for running economy and swim power.
-
----
-
-## Progression Rules
-
-1. **Every week:** perform all reps and sets with the current weight
-2. **When all reps feel "easy" with perfect form:** increase weight by the smallest available increment (typically 2.5 kg)
-3. **When you can't complete all reps with good form:** drop weight by 10% and rebuild
-4. **After a recovery week:** come back to 90% of your previous load for the first session back
-
----
-
-## What to Expect
-
-- **Weeks 1–3:** You may feel sore (DOMS) 24–48 h after sessions. This reduces as your body adapts.
-- **Weeks 4–8:** Soreness minimal, movement patterns feel natural, load increasing.
-- **Phase B:** You may feel "heavy" in the days after heavy sessions — this is normal. This is why we schedule strength on Mondays.
-- **Phase C:** Strength sessions feel easy but still feel important — this is exactly right.
-
----
-
-*Back to [[../Dashboard]] · Scheduled in [[../Plan/03 Week by Week Schedule]]*
+*Zurück zu [[../Dashboard]] · Wochenplan → [[../Plan/03 Week by Week Schedule]]*

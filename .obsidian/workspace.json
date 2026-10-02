@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/Training Log.md",
+                "file": "Plan/03 Week by Week Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Training Log"
+              "title": "03 Week by Week Schedule"
             }
           }
         ]
@@ -187,7 +187,12 @@
   },
   "active": "8ad7edc3fad55910",
   "lastOpenFiles": [
-    "README.md",
-    "Plan/00 Training Plan Overview.md"
+    "Plan/01 Monthly Calendar.md",
+    "Plan/00 Training Plan Overview.md",
+    "Workouts/Bike.md",
+    "Plan/02 Phases and Reasoning.md",
+    "Plan/03 Week by Week Schedule.md",
+    "Log/Training Log.md",
+    "README.md"
   ]
 }
