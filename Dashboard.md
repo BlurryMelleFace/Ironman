@@ -1,4 +1,4 @@
-# 🏠 Ironman Belgium 2027 — Mission Control
+# Mission
 
 ```base
 filters:
@@ -29,29 +29,25 @@ views:
       - formula.weeks_to_race
 ```
 
-## ✅ Today
-
-> Updates automatically by date. Click a cell to enter Done / Skipped / Actual / RPE / Hours / Metrics / Notes.
+## Today
 
 ![[Log/Today.base]]
 
 ---
 
-## 🎯 This Week
+## This Week
 
 > Full history (all weeks and days) → [[Log/Training Metrics]]
 
 ![[Log/This Week.base]]
 
-### 📅 Current Week Overview
+### Current Week Overview
 
 > Open the week note for the full plan and reflection. All weeks → [[Log/Training Metrics]]
 
 ![[Log/Current Week.base]]
 
 ### 🔜 Next Key Sessions
-
-> Upcoming long rides, long runs and Thursday intervals.
 
 ```base
 filters:
@@ -115,8 +111,6 @@ views:
 | 🔴 **Phase 4 — Peak Build** | Jul 5 – Aug 8, 2027 | 41–45 | 14–15 h | Race-specific intensity, long bricks |
 | ⚫ **Phase 5 — Taper** | Aug 9 – Sep 5, 2027 | 46–49 | 8→3 h | Shed fatigue, stay sharp |
 
-> Every Thursday = bike intervals + run intervals (eased in Week 16). On leave 24 Dec 2026 – 9 Jan 2027 (no training), so Weeks 13–15 are far below the hours shown.
-
 ---
 
 ## ⚠️ Key Dates & Flags
@@ -135,6 +129,3 @@ views:
 | 8–22 Aug 2027 | Final long sessions, then taper entry |
 | 5 Sep 2027 | 🏁 **RACE DAY — IRONMAN Belgium** |
 
----
-
-*Vault created: 2 October 2026 · Powered by evidence-based triathlon coaching principles*

@@ -25,6 +25,10 @@ properties:
     displayName: Week
   note.phase:
     displayName: Phase
+  note.week_start:
+    displayName: Start
+  note.week_end:
+    displayName: End
   note.hours_planned:
     displayName: Planned (h)
   note.long_bike_planned:
@@ -43,6 +47,8 @@ views:
     order:
       - file.name
       - phase
+      - week_start
+      - week_end
       - hours_planned
       - formula.hours_actual
       - formula.days_done
