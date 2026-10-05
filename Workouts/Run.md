@@ -167,6 +167,28 @@ After a bike session:
 
 ---
 
+### 🏃 Session R6 — Thursday Run Intervals (every Thursday)
+
+**Duration:** 10–40 min | **Intensity:** Z1–Z2 with short Z3 (Z3–Z4 in Phase 4) intervals | **Use:** Straight after the bike intervals in [[Bike]] B6
+
+```
+Transition:
+  Change shoes, start running within 2–3 min
+
+Run (exact sets are in the day's plan):
+  Phase 1:    4–5 × 1–1:30 min at Z3, 2 min easy between
+  Phase 2–3:  4–6 × 2 min at Z3, 2 min easy between
+  Phase 4:    6–7 × 2–3 min at Z3–Z4, 2 min easy between
+  Recovery weeks: 4 × 30 sec strides, 90 sec easy between
+  Taper: 3–4 short brisk efforts, fully easy between
+
+First 3–5 min: easy, legs will feel heavy — do not chase pace
+```
+
+**Key cue:** If legs or form fall apart, drop the intervals and finish with easy jogging.
+
+---
+
 ## Race Run Strategy
 
 ### The walk-run approach *(highly recommended for first Ironman)*

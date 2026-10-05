@@ -17,11 +17,16 @@ Sep 2026        Dec 2026        Mar 2027        Jul 2027        Sep 2027
    13 wks          13 wks          14 wks          5 wks       4 wks
 ```
 
+> [!IMPORTANT]
+> **Two fixed rules that apply across all phases**
+> - **Every Thursday** is a double: bike intervals followed straight away by run intervals (see [[../Workouts/Bike]] B6 and [[../Workouts/Run]] R6). Recovery and taper weeks use a lighter version; Week 40 (exam) and Week 16 (easy return from leave) are the exceptions.
+> - **On leave 24 Dec 2026 – 9 Jan 2027:** no training sessions. This removes most of Week 13, all of Week 14 and most of Week 15 (training resumes Sunday 10 Jan). See [[../Support/Recovery and Adjustments]] for the return guidance.
+
 ---
 
 ## Phase 1 — Foundation (Weeks 1–13 · Sep 28 – Dec 27, 2026; training starts Oct 2)
 
-**Weekly hours: 7–10 h · Recovery weeks: Wk 4, 8, 12**
+**Weekly hours: 7–10 h · Recovery weeks: Wk 4, 8, 12** (Week 13 is only ~3 h because leave starts on 24 Dec)
 
 ### Purpose
 Build the *habit of training*, establish movement patterns, and start developing your aerobic engine. This phase feels deceptively easy — that's intentional.
@@ -51,13 +56,13 @@ Strength training is at its highest frequency here (2×/week) because you have m
 | Full rest | 1 day (Monday) | 🟢 Essential |
 
 ### Intensity
-~90% Zone 1–2. **Monday is a full rest day.** Optional gentle mobility is fine, but do not replace rest with another training session. Group leg strength after Tuesday's easy run so Wednesday can stay light; keep Thursday as the quality double and the weekend for the long bike and long run.
+~90% Zone 1–2. **Monday is a full rest day.** Optional gentle mobility is fine, but do not replace rest with another training session. Group leg strength after Tuesday's easy run so Wednesday can stay light; keep Thursday as the quality double (bike intervals, then run intervals) and the weekend for the long bike and long run.
 
 ---
 
 ## Phase 2 — Base Build (Weeks 14–26 · Dec 28, 2026 – Mar 28, 2027)
 
-**Weekly hours: 10–13 h · Recovery weeks: Wk 17, 21, 25**
+**Weekly hours: 10–13 h · Recovery weeks: Wk 17, 21, 25** (Weeks 14–15 are leave: 0 h and ~2.5 h)
 
 ### Purpose
 Now that movement patterns and habits are established, you progressively increase *volume* — particularly on the bike and in the pool. This is where your aerobic engine truly develops.
@@ -68,7 +73,7 @@ The aerobic base built here is the single biggest predictor of Ironman performan
 Winter in Germany also means indoor cycling on the trainer is the norm. Structured turbo trainer sessions (like Zwift or Wahoo workouts) are excellent for this — you can control intensity precisely.
 
 ### New in Phase 2
-- **First brick sessions** begin (Wk 18 onwards) — short run off the bike, 15–20 min
+- **Thursday run intervals off the bike** start in Week 2; the dedicated brick sessions from Wk 18 onwards ([[../Workouts/Brick]]) build on them
 - **Swim volume increases** — target 2,000–2,500m per session by end of phase
 - **Long rides build to 4 hours** on the trainer or, as spring arrives, outdoors
 - **Long runs progress gradually from the early 10–14 km range; avoid forcing distance increases**

@@ -156,6 +156,28 @@ Cool-down (10 min):
 
 ---
 
+### 🚴 Session B6 — Thursday Bike Intervals (every Thursday)
+
+**Duration:** 35–105 min | **Intensity:** Z2 with Z3 blocks | **Use:** Every Thursday, followed straight away by the run intervals in [[Run]] R6
+
+```
+Warm-up (10–15 min):
+  Easy spin, build from Z1 to Z2
+
+Main Set (exact sets are in the day's plan):
+  Phase 1:    3 × 3 min → 3 × 10 min at Z3, 3–4 min Z2 between
+  Phase 2–3:  3 × 10–15 min or 2 × 20 min at Z3, 4–8 min Z2 between
+  Phase 4:    3 × 15–20 min at Z3, 5 min Z2 between
+  Recovery / taper weeks: 3 × 2–3 min at Z3, 3 min easy between
+
+Cool-down:
+  A few minutes easy, then change shoes for the run intervals
+```
+
+**Key cue:** Z3 means short phrases only. Do not push into Z4 — the run intervals follow immediately.
+
+---
+
 ## Race Pacing Strategy
 
 > This is the most important bike advice for your race.

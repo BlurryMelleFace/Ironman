@@ -63,6 +63,9 @@
 
 **BW Holidays:** Dec 25, 26 — Christmas. Use the holiday break as bonus recovery, not a training interruption.
 
+> [!IMPORTANT]
+> **On leave 24 Dec – 9 Jan: no training sessions.** Week 13 only has Mon–Wed sessions.
+
 > [!TIP]
 > Christmas week strategy: aim for one swim, one easy run or bike, and one family walk. That's enough. Arriving into January rested matters more than squeezing in extra sessions.
 
@@ -71,6 +74,9 @@
 ## January 2027 — Phase 2, Base Build (Weeks 14–17)
 
 **Target: 8–10 h/week · Week 17 = Recovery week**
+
+> [!IMPORTANT]
+> **On leave until Jan 9: no training sessions.** Training resumes Sunday Jan 10 (Week 15).
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|

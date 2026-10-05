@@ -1,124 +1,124 @@
-# Krafttraining — IRONMAN Belgium 2027
+# Strength Training — IRONMAN Belgium 2027
 
-> Zwei Krafteinheiten pro Woche: **Beine (Dienstag, nach dem lockeren Lauf)** und **kurz OK/Core (Sonntag)**.
-> Alle Übungen basieren auf deinen eigenen Präferenzen angepasst auf Triathlon-Ziele.
-
----
-
-## Prinzipien
-
-- **Minimaleffektive Dosis:** Gerade genug Kraft, um verletzungsfrei zu bleiben und die Ausdauerleistung zu unterstützen. Nicht mehr.
-- **Periodisierung:** Drei Phasen — Gewöhnung → Kraft → Erhaltung.
-- **Timing:** Krafttraining so planen, dass es die Haupteinheiten nicht sabotiert. Beine folgen am Dienstag auf den lockeren Lauf; Montag bleibt ein vollständiger Ruhetag und Mittwoch locker.
-- **Kein Muskelversagen.** Die letzten 2–3 Wiederholungen dürfen anstrengend sein, aber die Form muss immer sauber bleiben.
+> Two strength sessions per week: **Legs (Tuesday, after the easy run)** and a **short upper body/core session (Sunday)**.
+> All exercises are based on your own preferences, adapted to triathlon goals.
 
 ---
 
-## Phasierung
+## Principles
 
-| Trainingsphase | Kraftphase | Fokus | Sätze × Wdh | Häufigkeit |
+- **Minimum effective dose:** Just enough strength to stay injury-free and support endurance performance. No more.
+- **Periodisation:** Three phases — adaptation → strength → maintenance.
+- **Timing:** Schedule strength so it does not sabotage the key sessions. Legs follow the easy run on Tuesday; Monday stays a full rest day and Wednesday stays easy.
+- **No training to failure.** The last 2–3 reps may be hard, but form must always stay clean.
+
+---
+
+## Phasing
+
+| Training phase | Strength phase | Focus | Sets × reps | Frequency |
 |---|---|---|---|---|
-| Phase 1 (Okt–Dez) | Anpassung | Technik, Gewebe vorbereiten | 3 × 12–15 | 2×/Woche |
-| Phase 2 (Jan–Mär) | Kraft | Schwerer, progressive Überladung | 3–4 × 6–10 | 2×/Woche |
-| Phase 3 (Mär–Jul) | Erhaltung | Volumen runter, Gewichte halten | 2 × 8–10 | 1–2×/Woche |
-| Phase 4 (Jul–Aug) | Erhaltung | Minimal, kein Mehraufwand | 2 × 8 | 1×/Woche |
-| Phase 5 (Taper) | Keine | Erholung Vorrang | 1 × 6–8 (sehr leicht) | Optional |
+| Phase 1 (Oct–Dec) | Adaptation | Technique, prepare tissues | 3 × 12–15 | 2×/week |
+| Phase 2 (Jan–Mar) | Strength | Heavier, progressive overload | 3–4 × 6–10 | 2×/week |
+| Phase 3 (Mar–Jul) | Maintenance | Volume down, hold weights | 2 × 8–10 | 1–2×/week |
+| Phase 4 (Jul–Aug) | Maintenance | Minimal, no extra load | 2 × 8 | 1×/week |
+| Phase 5 (Taper) | None | Recovery takes priority | 1 × 6–8 (very light) | Optional |
 
 ---
 
-## 💪 KRAFT BEINE — Dienstag
+## 💪 LEG STRENGTH — Tuesday
 
-> Ziel: Kraftausdauer in Quadrizeps, Hamstrings, Gesäß, Wade. Direkt auf Laufen und Radfahren übertragbar.
+> Goal: muscular endurance in quads, hamstrings, glutes, calves. Transfers directly to running and cycling.
 
-### Übungen
+### Exercises
 
-| Übung | Phase 1 | Phase 2 | Phase 3–4 | Technikhinweis |
+| Exercise | Phase 1 | Phase 2 | Phase 3–4 | Technique cue |
 |---|---|---|---|---|
-| **RDL — beidbeinig oder einbeinig** | 3 × 12 | 3–4 × 8 | 2 × 10 | Hüftgelenk, nicht Knie. Rücken gerade. Spür die Hamstrings. Einbeinig = mehr Core |
-| **Squats (Fersen erhöht)** | 3 × 12 | 3–4 × 8 | 2 × 10 | Fersen auf Scheibe oder Keil → mehr Quadrizeps. Knie über Zehen ok. Tiefe so tief wie möglich |
-| **Split Squats mit Kurzhanteln** | 3 × 10 pro Seite | 3–4 × 8 | 2 × 8 | Hinteres Knie sinkt langsam ab, 3 Sek runter · 1 hoch. Vorderfuß bleibt komplett am Boden |
-| **Wadenheben (einbeinig oder beidbeinig)** | 3 × 15 | 3 × 15–20 | 2 × 15 | Volle Bewegungsreichweite. Langsam unten raus. Achillessehne schützen = Pflicht |
-| **Core (Wahl aus Liste unten)** | 2 Übungen | 2–3 Übungen | 1–2 Übungen | Immer kontrolliert, nie schnell |
+| **RDL — two-legged or single-leg** | 3 × 12 | 3–4 × 8 | 2 × 10 | Hinge at the hip, not the knee. Keep the back straight. Feel the hamstrings. Single-leg = more core |
+| **Squats (heels elevated)** | 3 × 12 | 3–4 × 8 | 2 × 10 | Heels on a plate or wedge → more quad. Knees over toes is fine. Go as deep as possible |
+| **Split squats with dumbbells** | 3 × 10 per side | 3–4 × 8 | 2 × 8 | Rear knee lowers slowly, 3 sec down · 1 up. Front foot stays fully on the floor |
+| **Calf raises (single-leg or two-legged)** | 3 × 15 | 3 × 15–20 | 2 × 15 | Full range of motion. Lower slowly. Protecting the Achilles tendon is mandatory |
+| **Core (choose from list below)** | 2 exercises | 2–3 exercises | 1–2 exercises | Always controlled, never fast |
 
-### Core-Auswahl (2 pro Einheit wählen, rotieren)
+### Core selection (choose 2 per session, rotate)
 
-| Übung | Ausführung |
+| Exercise | Execution |
 |---|---|
-| Plank | 3 × 30–60 Sek, Becken neutral |
-| Dead Bug | 3 × 8 pro Seite, Lendenwirbelsäule am Boden |
-| Pallof Press (Band oder Kabel) | 3 × 10 pro Seite, Rotation widerstehen |
-| Side Plank | 2 × 30 Sek pro Seite |
-| Hanging Leg Raise | 2 × 10, kontrolliert |
-| Glute Bridge (zweieinig oder Hip Thrust) | 3 × 15, volle Hüftstreckung oben |
+| Plank | 3 × 30–60 sec, neutral pelvis |
+| Dead bug | 3 × 8 per side, lower back on the floor |
+| Pallof press (band or cable) | 3 × 10 per side, resist rotation |
+| Side plank | 2 × 30 sec per side |
+| Hanging leg raise | 2 × 10, controlled |
+| Glute bridge (two-legged or hip thrust) | 3 × 15, full hip extension at the top |
 
-### Gewichtssteigerung
+### Progressing the weight
 
-> Steigere das Gewicht um die kleinstmögliche Einheit, sobald alle Wiederholungen sauber ausgeführt werden und sich leicht anfühlen. Nie um mehr als 5% pro Woche erhöhen.
+> Increase the weight by the smallest possible increment as soon as all reps are clean and feel easy. Never increase by more than 5% per week.
 
 ---
 
-## 💪 KRAFT OK (Oberkörper/Core) — Sonntag
+## 💪 UPPER BODY/CORE STRENGTH — Sunday
 
-> Ziel: Schulter- und Rumpfstabilität für den Schwimmzug. Kurz halten (20–30 min) und nach dem Long Run oder getrennt ausführen; kein zusätzliches Radtraining an diesem Tag.
+> Goal: shoulder and trunk stability for the swim stroke. Keep it short (20–30 min) and do it after the long run or separately; no additional cycling on this day.
 
-### Übungen
+### Exercises
 
-| Übung | Phase 1 | Phase 2 | Phase 3–4 | Technikhinweis |
+| Exercise | Phase 1 | Phase 2 | Phase 3–4 | Technique cue |
 |---|---|---|---|---|
-| **Brustpresse oder Kurzhantel Schrägbank** | 2 × 10–12 | 2–3 × 8–10 | 1–2 × 10 | Schrägbank (30–45°) bevorzugen → trifft auch die vordere Schulter besser für den Schwimmzug · Langsam ablassen (3 Sek) |
-| **Überzüge (DB Pullover) oder Latzug** | 2 × 10–12 | 2–3 × 10 | 1–2 × 10 | Überzüge: Latissimus-Dehnung und -Zug · Latzug: Ellenbogen zu den Rippen ziehen, Brust hoch |
-| **Schulterdrücken (Kurzhanteln oder Stange)** | 2 × 10–12 | 2 × 10 | 1–2 × 8 | Sitzend oder stehend. Kernspannung halten. Kein Hohlkreuz |
-| **Trizeps Pushdowns (Kabel oder Band)** | 2 × 12 | 2 × 12 | 1–2 × 12 | Ellenbogen fest an der Seite. Volle Streckung. Langsam zurück |
-| **Curls (Kurzhanteln oder Kabel)** | 2 × 12 | 2 × 10 | 1–2 × 10 | Supinierter Griff. Schultern ruhig. Kontrollierte Bewegung |
-| **Core (Wahl aus Liste oben)** | 1 Übung | 1–2 Übungen | 1 Übung | — |
+| **Chest press or dumbbell incline bench** | 2 × 10–12 | 2–3 × 8–10 | 1–2 × 10 | Prefer an incline bench (30–45°) → also hits the front shoulder better for the swim stroke · Lower slowly (3 sec) |
+| **Pullovers (DB pullover) or lat pulldown** | 2 × 10–12 | 2–3 × 10 | 1–2 × 10 | Pullovers: lat stretch and pull · Pulldown: pull elbows to the ribs, chest up |
+| **Shoulder press (dumbbells or barbell)** | 2 × 10–12 | 2 × 10 | 1–2 × 8 | Seated or standing. Keep the core tight. No arching of the lower back |
+| **Triceps pushdowns (cable or band)** | 2 × 12 | 2 × 12 | 1–2 × 12 | Elbows fixed at the sides. Full extension. Return slowly |
+| **Curls (dumbbells or cable)** | 2 × 12 | 2 × 10 | 1–2 × 10 | Supinated grip. Shoulders still. Controlled movement |
+| **Core (choose from list above)** | 1 exercise | 1–2 exercises | 1 exercise | — |
 
-### Reihenfolge Sonntag
+### Sunday order
 
-1. 🏃 Long Run locker und kontrolliert
-2. 💪 Wähle 3–4 Oberkörper/Core-Übungen, je 1–2 Sätze (20–30 min)
-3. Bei hoher Laufmüdigkeit Kraft auslassen
-
----
-
-## Beispielwoche Krafttraining (Phase 1, Woche 3)
-
-### Dienstag — Easy Run + Kraft Beine
-
-| Übung | Sätze × Wdh | Gewicht | Pause |
-|---|---|---|---|
-| RDL beidbeinig | 3 × 12 | Leicht–mittel | 90 Sek |
-| Squats Fersen erhöht | 3 × 12 | Leicht–mittel | 90 Sek |
-| Split Squats KH | 3 × 10 pro Seite | Leicht | 90 Sek |
-| Wadenheben | 3 × 15 | Bodyweight oder leicht | 60 Sek |
-| Dead Bug | 2 × 8 pro Seite | — | 45 Sek |
-| Plank | 2 × 40 Sek | — | 30 Sek |
-
-**Gesamtdauer:** ~55 min
-
-### Sonntag — Long Run + kurzes Kraft OK/Core
-
-| Übung | Sätze × Wdh | Gewicht | Pause |
-|---|---|---|---|
-| KH Schrägbank Presse | 3 × 12 | Leicht–mittel | 90 Sek |
-| Überzüge oder Latzug | 3 × 12 | Leicht–mittel | 90 Sek |
-| Schulterdrücken KH | 3 × 12 | Leicht | 90 Sek |
-| Trizeps Pushdowns | 3 × 12 | Leicht | 60 Sek |
-| Curls | 3 × 12 | Leicht | 60 Sek |
-| Pallof Press | 2 × 10 pro Seite | Band/Kabel leicht | 45 Sek |
-
-**Gesamtdauer Kraft:** ~20–30 min; bei hoher Laufmüdigkeit auslassen
+1. 🏃 Long run, easy and controlled
+2. 💪 Choose 3–4 upper body/core exercises, 1–2 sets each (20–30 min)
+3. Skip strength if run fatigue is high
 
 ---
 
-## Abkürzungen
+## Sample Strength Week (Phase 1, Week 3)
 
-| Abk. | Bedeutung |
+### Tuesday — Easy Run + Leg Strength
+
+| Exercise | Sets × reps | Weight | Rest |
+|---|---|---|---|
+| RDL two-legged | 3 × 12 | Light–medium | 90 sec |
+| Squats heels elevated | 3 × 12 | Light–medium | 90 sec |
+| Split squats DB | 3 × 10 per side | Light | 90 sec |
+| Calf raises | 3 × 15 | Bodyweight or light | 60 sec |
+| Dead bug | 2 × 8 per side | — | 45 sec |
+| Plank | 2 × 40 sec | — | 30 sec |
+
+**Total duration:** ~55 min
+
+### Sunday — Long Run + Short Upper Body/Core Strength
+
+| Exercise | Sets × reps | Weight | Rest |
+|---|---|---|---|
+| DB incline bench press | 3 × 12 | Light–medium | 90 sec |
+| Pullovers or lat pulldown | 3 × 12 | Light–medium | 90 sec |
+| Shoulder press DB | 3 × 12 | Light | 90 sec |
+| Triceps pushdowns | 3 × 12 | Light | 60 sec |
+| Curls | 3 × 12 | Light | 60 sec |
+| Pallof press | 2 × 10 per side | Band/cable light | 45 sec |
+
+**Total strength duration:** ~20–30 min; skip if run fatigue is high
+
+---
+
+## Abbreviations
+
+| Abbr. | Meaning |
 |---|---|
-| KH | Kurzhantel |
-| RDL | Romanian Deadlift |
-| Wdh | Wiederholungen |
-| Sek | Sekunden |
+| DB | Dumbbell |
+| RDL | Romanian deadlift |
+| Reps | Repetitions |
+| Sec | Seconds |
 
 ---
 
-*Zurück zu [[../Dashboard]] · Wochenplan → [[../Plan/03 Week by Week Schedule]]*
+*Back to [[../Dashboard]] · Weekly plan → [[../Plan/03 Week by Week Schedule]]*

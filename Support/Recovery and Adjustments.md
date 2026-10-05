@@ -77,6 +77,10 @@ Do not jump back in at full intensity. Your body needs a reintroduction. Use thi
 | 2–3 weeks | 60% for first week | Z2 only for 5 days |
 | 3+ weeks | Restart 2 phases back | Z2 only for 7–10 days |
 
+### Planned leave: 24 Dec 2026 – 9 Jan 2027
+
+This is a planned break of about 2.5 weeks with no training. The plan is built around it (Week 13: Mon–Wed only, Week 14: none, Week 15: Sunday only). Using the table above, a sensible return is **60% volume in the first week back and Z2 only for the first 5 days**. The plan applies this: Week 15 is a single easy 10 km run, and Week 16 runs at roughly 70% volume with easy running only (Thursday is 60 min Z2 bike plus a 10 min easy run, no intervals). Thursday intervals resume in Week 17 (the planned light recovery-week version).
+
 ---
 
 ## Illness Protocol

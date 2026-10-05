@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.inFolder("Log/Days")
+    - kind == "training-day"
+    - week_number == this.week_number
+properties:
+  note.weekday:
+    displayName: Day
+  note.date:
+    displayName: Date
+  note.planned:
+    displayName: Planned
+  note.done:
+    displayName: Done
+  note.skipped:
+    displayName: Skipped
+  note.actual:
+    displayName: Actual
+  note.rpe:
+    displayName: RPE
+  note.hours:
+    displayName: Hours
+  note.metrics:
+    displayName: Metrics
+  note.notes:
+    displayName: Notes
+views:
+  - type: table
+    name: Days
+    order:
+      - weekday
+      - date
+      - planned
+      - done
+      - skipped
+      - actual
+      - rpe
+      - hours
+      - metrics
+      - notes
+    sort:
+      - property: date
+        direction: ASC
+    summaries:
+      done: Checked
+      skipped: Checked
+      rpe: Average
+      hours: Sum

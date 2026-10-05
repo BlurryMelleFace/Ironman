@@ -1,0 +1,14 @@
+{
+  "types": {
+    "rpe": "number",
+    "hours": "number",
+    "done": "checkbox",
+    "skipped": "checkbox",
+    "date": "date",
+    "week_start": "date",
+    "week_end": "date",
+    "week_number": "number",
+    "hours_planned": "number",
+    "days": "multitext"
+  }
+}

@@ -73,7 +73,7 @@ Research by sports scientist Stephen Seiler and applied by TrainingPeaks coaches
 |---|---|---|---|---|
 | Z1 | Recovery | Full sentences, barely breathing harder | <60% | Active recovery only |
 | Z2 | Aerobic Base | **Full comfortable sentences** | 60–72% | 80% of all training |
-| Z3 | Tempo | Short sentences, noticeably breathless | 73–80% | Limited — avoid unintentionally |
+| Z3 | Tempo | Short sentences, noticeably breathless | 73–80% | Limited — avoid unintentionally (the Thursday intervals are the deliberate exception) |
 | Z4 | Threshold | Few words only | 81–89% | Interval work, key sessions |
 | Z5 | VO2max | Cannot speak | >90% | Rare, specific intervals only |
 
@@ -83,6 +83,12 @@ Research by sports scientist Stephen Seiler and applied by TrainingPeaks coaches
 ### 3:1 Recovery Cycle *(established principle)*
 
 Every 4th week is a recovery week — volume drops 35–40%, intensity is maintained. This is non-negotiable. Adaptation happens during recovery, not during hard training.
+
+---
+
+## Planned Leave
+
+**24 Dec 2026 – 9 Jan 2027: on leave, no training sessions.** Week 13 keeps only Mon–Wed, Week 14 is empty, and Week 15 has only an easy 10 km run and light strength on 10 Jan, and Week 16 is an eased return week. See [[03 Week by Week Schedule]] and [[../Support/Recovery and Adjustments]].
 
 ---
 
@@ -131,7 +137,7 @@ Ironman/
 │   ├── Recovery and Adjustments.md
 │   └── Baseline Tests.md
 ├── Log/
-│   └── Messwerte.md
+│   └── Training Metrics.md
 ```
 
 ---

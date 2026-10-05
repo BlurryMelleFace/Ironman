@@ -22,6 +22,8 @@ When you step off the bike, your leg muscles have been in a fixed cycling positi
 
 ## Brick Progression Schedule
 
+> **Thursday run intervals** (off the bike, from Week 2 onwards) are a separate weekly session described in [[Run]] R6. The progression below covers the dedicated brick sessions.
+
 | Phase | Week | Bike Duration | Run Duration | Intensity Notes |
 |---|---|---|---|---|
 | Phase 2 | Wk 18 (Feb 2) | 90 min | 20 min | Easy — just get used to the transition |

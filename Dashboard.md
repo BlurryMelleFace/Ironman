@@ -1,11 +1,87 @@
 # 🏠 Ironman Belgium 2027 — Mission Control
 
-> [!IMPORTANT]
-> **Race:** IRONMAN Belgium — Knokke-Heist 🇧🇪
-> **Date:** Sunday, 5 September 2027
-> **Distance:** Swim 3.8 km · Bike 180 km · Run 42.2 km
-> **Goal:** Finish under 15 hours · Target under 14 hours
-> **Days to race:** use a countdown widget or manually update
+```base
+filters:
+  and:
+    - file.inFolder("Log/Weeks")
+    - kind == "training-week"
+    - week_start <= today()
+    - week_end >= today()
+formulas:
+  days_to_race: ((number(date("2027-09-05")) - number(today())) / 86400000).round(0)
+  weeks_to_race: (formula.days_to_race / 7).floor()
+properties:
+  note.week_number:
+    displayName: Week (of 49)
+  note.phase:
+    displayName: Phase
+  formula.days_to_race:
+    displayName: Days to race
+  formula.weeks_to_race:
+    displayName: Weeks to race
+views:
+  - type: table
+    name: Countdown
+    order:
+      - week_number
+      - phase
+      - formula.days_to_race
+      - formula.weeks_to_race
+```
+
+## ✅ Today
+
+> Updates automatically by date. Click a cell to enter Done / Skipped / Actual / RPE / Hours / Metrics / Notes.
+
+![[Log/Today.base]]
+
+---
+
+## 🎯 This Week
+
+> Full history (all weeks and days) → [[Log/Training Metrics]]
+
+![[Log/This Week.base]]
+
+### 📅 Current Week Overview
+
+> Open the week note for the full plan and reflection. All weeks → [[Log/Training Metrics]]
+
+![[Log/Current Week.base]]
+
+### 🔜 Next Key Sessions
+
+> Upcoming long rides, long runs and Thursday intervals.
+
+```base
+filters:
+  and:
+    - file.inFolder("Log/Days")
+    - kind == "training-day"
+    - date >= today()
+    - or:
+        - planned.contains("Long Bike")
+        - planned.contains("Long Run")
+        - planned.contains("Bike intervals")
+properties:
+  note.date:
+    displayName: Date
+  note.weekday:
+    displayName: Day
+  note.planned:
+    displayName: Session
+views:
+  - type: table
+    name: Next Key Sessions
+    limit: 4
+    order:
+      - date
+      - weekday
+      - planned
+    sort:
+      - property: date
+        direction: ASC
+```
 
 ---
 
@@ -25,7 +101,7 @@
 | 🍌 Nutrition & Fueling | [[Support/Nutrition and Fueling]] |
 | 🔄 Recovery & Adjustments | [[Support/Recovery and Adjustments]] |
 | 📏 Baseline Tests | [[Support/Baseline Tests]] |
-| 📊 Messwerte | [[Log/Messwerte]] |
+| 📊 Training Metrics | [[Log/Training Metrics]] |
 
 ---
 
@@ -39,45 +115,7 @@
 | 🔴 **Phase 4 — Peak Build** | Jul 5 – Aug 8, 2027 | 41–45 | 14–15 h | Race-specific intensity, long bricks |
 | ⚫ **Phase 5 — Taper** | Aug 9 – Sep 5, 2027 | 46–49 | 8→3 h | Shed fatigue, stay sharp |
 
----
-
-## 🎯 Current Week Snapshot
-
-> Update this section each Monday
-
-- **Week number:** 
-- **Phase:** 
-- **Focus discipline:** 
-- **Key session this week:** 
-- **Recovery week?** Yes / No
-
----
-
-## 📈 Fitness Benchmarks
-
-> Complete these tests at the start, then every 8 weeks. See [[Support/Baseline Tests]].
-
-| Test | Baseline (Oct 2026) | 8-wk Check | 16-wk Check | 24-wk Check | 32-wk Check |
-|---|---|---|---|---|---|
-| 400m swim TT (pool) | — | — | — | — | — |
-| 30-min bike power (W or avg HR) | — | — | — | — | — |
-| 5 km run time trial | — | — | — | — | — |
-| Max sustained swim distance | — | — | — | — | — |
-| Long ride duration | — | — | — | — | — |
-| Long run duration | — | — | — | — | — |
-
----
-
-## 📝 Weekly Log (Latest Entry)
-
-> Training metrics and weekly logs → [[Log/Messwerte]]
-
-| Date | Discipline | Planned | Completed | RPE (1–10) | Notes |
-|---|---|---|---|---|---|
-| | Swim | | | | |
-| | Bike | | | | |
-| | Run | | | | |
-| | Strength | | | | |
+> Every Thursday = bike intervals + run intervals (eased in Week 16). On leave 24 Dec 2026 – 9 Jan 2027 (no training), so Weeks 13–15 are far below the hours shown.
 
 ---
 
@@ -86,6 +124,7 @@
 | Date | Note |
 |---|---|
 | 2 Oct 2026 | **Training starts** |
+| 24 Dec 2026 – 9 Jan 2027 | **On leave — no training sessions** |
 | 6 Jan 2027 | Epiphany (BW holiday) |
 | 26 Mar 2027 | Good Friday (BW holiday) |
 | 29 Mar 2027 | Easter Monday (BW holiday) |

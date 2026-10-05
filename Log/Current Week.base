@@ -1,0 +1,55 @@
+filters:
+  and:
+    - file.inFolder("Log/Weeks")
+    - kind == "training-week"
+    - week_start <= today()
+    - week_end >= today()
+formulas:
+  days_done: days.filter(value.asFile().properties.done == true).length
+  days_skipped: days.filter(value.asFile().properties.skipped == true).length
+  hours_actual: days.map(value.asFile().properties.hours).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
+  rpe_values: days.map(value.asFile().properties.rpe).filter(value.isTruthy()).map(number(value))
+  avg_rpe: if(formula.rpe_values.length > 0, (formula.rpe_values.reduce(acc + value, 0) / formula.rpe_values.length).round(1), "")
+properties:
+  file.name:
+    displayName: Week note
+  formula.days_done:
+    displayName: Days done
+  formula.days_skipped:
+    displayName: Days skipped
+  formula.hours_actual:
+    displayName: Actual (h)
+  formula.avg_rpe:
+    displayName: Avg RPE
+  note.week_number:
+    displayName: Week
+  note.phase:
+    displayName: Phase
+  note.hours_planned:
+    displayName: Planned (h)
+  note.long_bike_planned:
+    displayName: Long Bike
+  note.long_run_planned:
+    displayName: Long Run
+  note.swim_planned:
+    displayName: Swim
+  note.quality_planned:
+    displayName: Thursday Double
+  note.strength_planned:
+    displayName: Strength (sessions)
+views:
+  - type: table
+    name: Current Week
+    order:
+      - file.name
+      - phase
+      - hours_planned
+      - formula.hours_actual
+      - formula.days_done
+      - formula.days_skipped
+      - formula.avg_rpe
+      - long_bike_planned
+      - long_run_planned
+      - swim_planned
+      - quality_planned
+      - strength_planned

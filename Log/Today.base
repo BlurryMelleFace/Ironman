@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.inFolder("Log/Days")
+    - kind == "training-day"
+    - date == today()
+properties:
+  note.weekday:
+    displayName: Day
+  note.planned:
+    displayName: To do today
+  note.done:
+    displayName: Done
+  note.skipped:
+    displayName: Skipped
+  note.actual:
+    displayName: Actual (what you did)
+  note.rpe:
+    displayName: RPE (1-10)
+  note.hours:
+    displayName: Hours (e.g. 1.5)
+  note.metrics:
+    displayName: Metrics (HR, pace, power, distance, weight...)
+  note.notes:
+    displayName: How did it go?
+views:
+  - type: table
+    name: Today
+    rowHeight: tall
+    columnSize:
+      note.planned: 280
+      note.actual: 240
+      note.metrics: 240
+      note.notes: 260
+    order:
+      - weekday
+      - planned
+      - done
+      - skipped
+      - actual
+      - rpe
+      - hours
+      - metrics
+      - notes
