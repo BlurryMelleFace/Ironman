@@ -43,3 +43,5 @@ views:
       note.notes: 260
   - type: table
     name: Sicht
+  - type: table
+    name: Yesterday
