@@ -8,7 +8,7 @@ filters:
     - week_start <= today()
     - week_end >= today()
 formulas:
-  days_to_race: ((number(date("2027-09-05")) - number(today())) / 86400000).round(0)
+  days_to_race: (date("2027-09-05") - today()).days.round(0)
   weeks_to_race: (formula.days_to_race / 7).floor()
 properties:
   note.week_number:
