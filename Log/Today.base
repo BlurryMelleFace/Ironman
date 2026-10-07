@@ -25,12 +25,6 @@ properties:
 views:
   - type: table
     name: Today
-    rowHeight: tall
-    columnSize:
-      note.planned: 280
-      note.actual: 240
-      note.metrics: 240
-      note.notes: 260
     order:
       - weekday
       - planned
@@ -41,3 +35,11 @@ views:
       - hours
       - metrics
       - notes
+    rowHeight: tall
+    columnSize:
+      note.planned: 280
+      note.actual: 240
+      note.metrics: 240
+      note.notes: 260
+  - type: table
+    name: Sicht
