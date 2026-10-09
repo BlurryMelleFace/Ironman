@@ -11,7 +11,7 @@ properties:
   note.done:
     displayName: Done
   note.skipped:
-    displayName: Skipped
+    displayName: Skip
   note.actual:
     displayName: Actual (what you did)
   note.rpe:
@@ -29,18 +29,18 @@ views:
       - planned
       - done
       - skipped
-    rowHeight: tall
+    rowHeight: medium
     columnSize:
-      note.planned: 200
-      note.done: 70
-      note.skipped: 80
+      note.planned: 280
+      note.done: 68
+      note.skipped: 55
   - type: table
     name: Today stats
     order:
       - rpe
       - hours
       - metrics
-    rowHeight: tall
+    rowHeight: short
     columnSize:
       note.rpe: 90
       note.hours: 90
@@ -50,7 +50,7 @@ views:
     order:
       - actual
       - notes
-    rowHeight: tall
+    rowHeight: medium
     columnSize:
       note.actual: 240
       note.notes: 240
