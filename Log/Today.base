@@ -23,8 +23,21 @@ properties:
   note.notes:
     displayName: How did it go?
 views:
-  - type: table
+  - type: cards
     name: Today
+    order:
+      - weekday
+      - planned
+      - done
+      - skipped
+      - actual
+      - rpe
+      - hours
+      - metrics
+      - notes
+    cardSize: 600
+  - type: table
+    name: Today (table)
     order:
       - weekday
       - planned
