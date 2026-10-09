@@ -83,21 +83,21 @@ views:
 
 ## 📍 Quick Navigation
 
-| Section | Link |
-|---|---|
-| 🗺️ Training Plan Overview | [[Plan/00 Training Plan Overview]] |
-| 📅 Monthly Calendar | [[Plan/01 Monthly Calendar]] |
-| 📋 Phase Guide | [[Plan/02 Phases and Reasoning]] |
-| 🗓️ Week-by-Week Schedule | [[Plan/03 Week by Week Schedule]] |
-| 🏊 Swim Sessions | [[Workouts/Swim]] |
-| 🚴 Bike Sessions | [[Workouts/Bike]] |
-| 🏃 Run Sessions | [[Workouts/Run]] |
-| 🧱 Brick Sessions | [[Workouts/Brick]] |
-| 💪 Strength Training | [[Workouts/Strength]] |
-| 🍌 Nutrition & Fueling | [[Support/Nutrition and Fueling]] |
-| 🔄 Recovery & Adjustments | [[Support/Recovery and Adjustments]] |
-| 📏 Baseline Tests | [[Support/Baseline Tests]] |
-| 📊 Training Metrics | [[Log/Training Metrics]] |
+| Section                    | Link                                 |
+| -------------------------- | ------------------------------------ |
+| 🗺️ Training Plan Overview | [[Plan/00 Training Plan Overview]]   |
+| 📅 Monthly Calendar        | [[Plan/01 Monthly Calendar]]         |
+| 📋 Phase Guide             | [[Plan/02 Phases and Reasoning]]     |
+| 🗓️ Week-by-Week Schedule  | [[Plan/03 Week by Week Schedule]]    |
+| 🏊 Swim Sessions           | [[Workouts/Swim]]                    |
+| 🚴 Bike Sessions           | [[Workouts/Bike]]                    |
+| 🏃 Run Sessions            | [[Workouts/Run]]                     |
+| 🧱 Brick Sessions          | [[Workouts/Brick]]                   |
+| 💪 Strength Training       | [[Workouts/Strength]]                |
+| 🍌 Nutrition & Fueling     | [[Support/Nutrition and Fueling]]    |
+| 🔄 Recovery & Adjustments  | [[Support/Recovery and Adjustments]] |
+| 📏 Baseline Tests          | [[Support/Baseline Tests]]           |
+| 📊 Training Metrics        | [[Log/Training Metrics]]             |
 
 ---
 
