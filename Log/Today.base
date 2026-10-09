@@ -23,8 +23,39 @@ properties:
   note.notes:
     displayName: How did it go?
 views:
-  - type: cards
+  - type: table
     name: Today
+    order:
+      - planned
+      - done
+      - skipped
+    rowHeight: tall
+    columnSize:
+      note.planned: 200
+      note.done: 70
+      note.skipped: 80
+  - type: table
+    name: Today stats
+    order:
+      - rpe
+      - hours
+      - metrics
+    rowHeight: tall
+    columnSize:
+      note.rpe: 90
+      note.hours: 90
+      note.metrics: 240
+  - type: table
+    name: Today notes
+    order:
+      - actual
+      - notes
+    rowHeight: tall
+    columnSize:
+      note.actual: 240
+      note.notes: 240
+  - type: cards
+    name: Today (cards)
     order:
       - weekday
       - planned
@@ -36,24 +67,6 @@ views:
       - metrics
       - notes
     cardSize: 600
-  - type: table
-    name: Today (table)
-    order:
-      - weekday
-      - planned
-      - done
-      - skipped
-      - actual
-      - rpe
-      - hours
-      - metrics
-      - notes
-    rowHeight: tall
-    columnSize:
-      note.planned: 280
-      note.actual: 240
-      note.metrics: 240
-      note.notes: 260
   - type: table
     name: Sicht
   - type: table

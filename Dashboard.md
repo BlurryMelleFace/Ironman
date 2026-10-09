@@ -33,6 +33,10 @@ views:
 
 ![[Log/Today.base]]
 
+![[Log/Today.base#Today stats]]
+
+![[Log/Today.base#Today notes]]
+
 ---
 
 ## This Week
