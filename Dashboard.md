@@ -32,7 +32,6 @@ views:
 ## Today
 
 ![[Log/Today.base]]
-
 ![[Log/Today.base#Today stats]]
 
 ![[Log/Today.base#Today notes]]
