@@ -54,3 +54,5 @@ views:
       skipped: Checked
       rpe: Average
       hours: Sum
+  - type: table
+    name: Sicht
