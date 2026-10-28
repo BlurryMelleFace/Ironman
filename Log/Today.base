@@ -28,14 +28,6 @@ properties:
     displayName: Run (km)
   note.strength_min:
     displayName: Strength (min)
-  note.avg_hr:
-    displayName: Avg HR
-  note.sleep_h:
-    displayName: Sleep (h)
-  note.energy:
-    displayName: Energy (1-5)
-  note.weight_kg:
-    displayName: Weight (kg)
 views:
   - type: table
     name: Today
@@ -43,6 +35,9 @@ views:
       - planned
       - done
       - skipped
+    sort:
+      - property: planned
+        direction: ASC
     rowHeight: medium
     columnSize:
       note.planned: 300
@@ -71,19 +66,6 @@ views:
       note.run_km: 110
       note.strength_min: 130
   - type: table
-    name: Today body
-    order:
-      - avg_hr
-      - sleep_h
-      - energy
-      - weight_kg
-    rowHeight: short
-    columnSize:
-      note.avg_hr: 110
-      note.sleep_h: 110
-      note.energy: 120
-      note.weight_kg: 120
-  - type: table
     name: Today notes
     order:
       - actual
@@ -102,6 +84,10 @@ views:
       - actual
       - rpe
       - hours
+      - swim_m
+      - bike_km
+      - run_km
+      - strength_min
       - notes
     cardSize: 600
   - type: table

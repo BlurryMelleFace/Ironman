@@ -35,7 +35,6 @@ views:
 ![[Log/Today.base#Today stats]]
 
 ![[Log/Today.base#Today volume]]
-![[Log/Today.base#Today body]]
 
 ![[Log/Today.base#Today notes]]
 

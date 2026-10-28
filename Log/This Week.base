@@ -6,10 +6,13 @@ filters:
     - week_end >= today()
 formulas:
   today: if(date == today(), "👉", "")
+  day_link: file.asLink(note.weekday)
 properties:
   formula.today:
     displayName: " "
   note.weekday:
+    displayName: Day
+  formula.day_link:
     displayName: Day
   note.date:
     displayName: Date
@@ -34,22 +37,15 @@ views:
     name: This Week
     order:
       - formula.today
-      - weekday
-      - date
+      - formula.day_link
       - planned
-      - done
-      - skipped
-      - actual
-      - rpe
-      - hours
-      - notes
     sort:
       - property: date
         direction: ASC
-    summaries:
-      done: Checked
-      skipped: Checked
-      rpe: Average
-      hours: Sum
+    rowHeight: short
+    columnSize:
+      formula.today: 40
+      formula.day_link: 90
+      note.planned: 520
   - type: table
     name: Sicht

@@ -5,12 +5,64 @@ filters:
     - week_start <= today()
     - week_end >= today()
 formulas:
+  title: 'file.asLink("Week " + note.week_number + " · " + note.week_start.format("D MMM") + " – " + note.week_end.format("D MMM"))'
+  hours_pct: if(note.hours_planned > 0, (formula.hours_actual / note.hours_planned * 100).round(0), 0)
+  hours_bar: '"■".repeat(min(10, (formula.hours_pct / 10).round(0))) + "□".repeat(10 - min(10, (formula.hours_pct / 10).round(0)))'
+  day_strip: 'days.map(if(value.asFile().properties.done == true, "🟩", if(value.asFile().properties.skipped == true, "🟥", "⬜"))).join("")'
+  rpe_bar: 'if(formula.rpe_values.length > 0, "●".repeat(formula.avg_rpe.round(0)) + "○".repeat(10 - formula.avg_rpe.round(0)), "")'
+  swim_m: days.map(value.asFile().properties.swim_m).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
+  bike_km: days.map(value.asFile().properties.bike_km).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
+  run_km: days.map(value.asFile().properties.run_km).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
+  strength_min: days.map(value.asFile().properties.strength_min).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
   days_done: days.filter(value.asFile().properties.done == true).length
   days_skipped: days.filter(value.asFile().properties.skipped == true).length
   hours_actual: days.map(value.asFile().properties.hours).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
   rpe_values: days.map(value.asFile().properties.rpe).filter(value.isTruthy()).map(number(value))
   avg_rpe: if(formula.rpe_values.length > 0, (formula.rpe_values.reduce(acc + value, 0) / formula.rpe_values.length).round(1), "")
+  plan_run_km: 'if(note.long_run_planned && note.long_run_planned.contains("km"), number(note.long_run_planned.replace(",", "").split(" ")[0].split("–")[0]), 0)'
+  plan_swim_m: 'if(note.swim_planned && note.swim_planned.contains(" m"), number(note.swim_planned.replace(",", "").split(" ")[0].split("–")[0]), 0)'
+  run_pct: 'if(formula.plan_run_km > 0, "" + (formula.run_km / formula.plan_run_km * 100).round(0) + "%", "n/a")'
+  swim_pct: 'if(formula.plan_swim_m > 0, "" + (formula.swim_m / formula.plan_swim_m * 100).round(0) + "%", "n/a")'
+  d_swim: 'if(formula.plan_swim_m > 0, "" + formula.swim_m + " of " + formula.plan_swim_m + " m  =  " + formula.swim_pct, "" + formula.swim_m + " m  =  n/a (no target)")'
+  d_bike: '"" + formula.bike_km + " km  =  n/a (target " + note.long_bike_planned + ")"'
+  d_run: 'if(formula.plan_run_km > 0, "" + formula.run_km + " of " + formula.plan_run_km + " km  =  " + formula.run_pct, "" + formula.run_km + " km  =  n/a (no target)")'
+  d_strength: '"" + formula.strength_min + " min  =  n/a (target " + note.strength_planned + " sessions)"'
+  s_hours: '"" + formula.hours_actual.round(1) + " of " + note.hours_planned + " h  =  " + formula.hours_pct + "%   " + formula.hours_bar'
+  s_days: 'formula.day_strip + "  " + formula.days_done + " done, " + formula.days_skipped + " skipped"'
+  s_rpe: 'if(formula.rpe_values.length > 0, "" + formula.avg_rpe + " of 10  " + formula.rpe_bar, "not logged yet")'
 properties:
+  formula.d_swim:
+    displayName: 🏊 Swim (done of target)
+  formula.d_bike:
+    displayName: 🚴 Bike (done)
+  formula.d_run:
+    displayName: 🏃 Run (done of long run)
+  formula.d_strength:
+    displayName: 💪 Strength (done)
+  formula.s_hours:
+    displayName: ⏱ Total hours (done of plan)
+  formula.s_days:
+    displayName: Days (green done, red skipped)
+  formula.s_rpe:
+    displayName: Average effort (RPE)
+  formula.title:
+    displayName: Week
+  formula.hours_pct:
+    displayName: "% of plan"
+  formula.hours_bar:
+    displayName: Volume vs plan
+  formula.day_strip:
+    displayName: Consistency
+  formula.rpe_bar:
+    displayName: Intensity
+  formula.swim_m:
+    displayName: Swim (m)
+  formula.bike_km:
+    displayName: Bike (km)
+  formula.run_km:
+    displayName: Run (km)
+  formula.strength_min:
+    displayName: Strength (min)
   file.name:
     displayName: Week note
   formula.days_done:
@@ -42,6 +94,20 @@ properties:
   note.strength_planned:
     displayName: Strength (sessions)
 views:
+  - type: cards
+    name: Current Week card
+    cardSize: 360
+    order:
+      - formula.title
+      - phase
+      - formula.s_hours
+      - formula.s_days
+      - formula.s_rpe
+      - formula.d_swim
+      - formula.d_bike
+      - formula.d_run
+      - formula.d_strength
+      - quality_planned
   - type: table
     name: Current Week
     order:

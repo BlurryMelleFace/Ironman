@@ -2,6 +2,10 @@
   "types": {
     "rpe": "number",
     "hours": "number",
+    "swim_m": "number",
+    "bike_km": "number",
+    "run_km": "number",
+    "strength_min": "number",
     "done": "checkbox",
     "skipped": "checkbox",
     "date": "date",

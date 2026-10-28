@@ -3,7 +3,20 @@ filters:
     - file.inFolder("Log/Days")
     - kind == "training-day"
     - week_number == this.week_number
+formulas:
+  title: file.asLink(note.weekday + " · " + note.date.format("D MMM"))
+  status: if(note.done == true, "✅ Done", if(note.skipped == true, "❌ Skipped", "⬜ Not logged"))
+  effort: if(note.hours, "" + note.hours + " h     ", "") + if(note.rpe, "RPE " + note.rpe, "")
+  volume: if(note.swim_m, "🏊 " + note.swim_m + " m     ", "") + if(note.bike_km, "🚴 " + note.bike_km + " km     ", "") + if(note.run_km, "🏃 " + note.run_km + " km     ", "") + if(note.strength_min, "💪 " + note.strength_min + " min", "")
 properties:
+  formula.title:
+    displayName: Day
+  formula.status:
+    displayName: Status
+  formula.effort:
+    displayName: Time and effort
+  formula.volume:
+    displayName: Volume
   note.weekday:
     displayName: Day
   note.date:
@@ -30,15 +43,21 @@ properties:
     displayName: Run (km)
   note.strength_min:
     displayName: Strength (min)
-  note.avg_hr:
-    displayName: Avg HR
-  note.sleep_h:
-    displayName: Sleep (h)
-  note.energy:
-    displayName: Energy
-  note.weight_kg:
-    displayName: Weight (kg)
 views:
+  - type: cards
+    name: Day cards
+    order:
+      - formula.title
+      - formula.status
+      - planned
+      - actual
+      - formula.effort
+      - formula.volume
+      - notes
+    sort:
+      - property: date
+        direction: ASC
+    cardSize: 300
   - type: table
     name: Days
     order:
@@ -54,10 +73,6 @@ views:
       - bike_km
       - run_km
       - strength_min
-      - avg_hr
-      - sleep_h
-      - energy
-      - weight_kg
       - notes
     sort:
       - property: date
@@ -71,6 +86,3 @@ views:
       bike_km: Sum
       run_km: Sum
       strength_min: Sum
-      avg_hr: Average
-      sleep_h: Average
-      energy: Average
