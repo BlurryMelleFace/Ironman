@@ -107,10 +107,24 @@ properties:
     displayName: RPE
   note.hours:
     displayName: Hours
-  note.metrics:
-    displayName: Metrics
   note.notes:
     displayName: Notes
+  note.swim_m:
+    displayName: Swim (m)
+  note.bike_km:
+    displayName: Bike (km)
+  note.run_km:
+    displayName: Run (km)
+  note.strength_min:
+    displayName: Strength (min)
+  note.avg_hr:
+    displayName: Avg HR
+  note.sleep_h:
+    displayName: Sleep (h)
+  note.energy:
+    displayName: Energy
+  note.weight_kg:
+    displayName: Weight (kg)
 views:
   - type: table
     name: Daily Log
@@ -126,7 +140,14 @@ views:
       - actual
       - rpe
       - hours
-      - metrics
+      - swim_m
+      - bike_km
+      - run_km
+      - strength_min
+      - avg_hr
+      - sleep_h
+      - energy
+      - weight_kg
       - notes
     sort:
       - property: date
@@ -136,6 +157,10 @@ views:
       skipped: Checked
       rpe: Average
       hours: Sum
+      swim_m: Sum
+      bike_km: Sum
+      run_km: Sum
+      strength_min: Sum
 ```
 
 ---
@@ -149,7 +174,11 @@ views:
 | **Actual** | What you actually did (e.g. "55 min, felt heavy") |
 | **RPE** | Rate of Perceived Exertion: 1 (very easy) → 10 (maximum) |
 | **Hours** | Training time as a number (e.g. 1.5) — adds up to the weekly total |
-| **Metrics** | Heart rate, pace, power, distance, weight, etc. |
+| **Swim (m) / Bike (km) / Run (km)** | Numbers only (e.g. 1400, 45, 10.5), summed per week on [[Visualization]] |
+| **Strength (min)** | Minutes of strength / core work |
+| **Avg HR** | Average heart rate in bpm of the main session |
+| **Sleep (h) / Energy (1-5)** | Last night's sleep and how fresh you feel |
+| **Weight (kg)** | Optional, e.g. weekly on the same day |
 | **Notes** | Anything relevant — form cues, nutrition, fatigue, highlights |
 
 **RPE Quick Guide:**

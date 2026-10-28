@@ -1,0 +1,156 @@
+filters:
+  and:
+    - file.inFolder("Log/Weeks")
+    - kind == "training-week"
+    - week_start <= today()
+formulas:
+  title: 'file.asLink("Week " + note.week_number + " · " + note.week_start.format("D MMM") + " – " + note.week_end.format("D MMM"))'
+  hours_actual: days.map(value.asFile().properties.hours).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(2)
+  hours_pct: if(note.hours_planned > 0, (formula.hours_actual / note.hours_planned * 100).round(0), 0)
+  hours_bar: '"■".repeat(min(10, (formula.hours_pct / 10).round(0))) + "□".repeat(10 - min(10, (formula.hours_pct / 10).round(0)))'
+  hours_delta: (formula.hours_actual - note.hours_planned).round(2)
+  days_done: days.filter(value.asFile().properties.done == true).length
+  days_skipped: days.filter(value.asFile().properties.skipped == true).length
+  day_strip: 'days.map(if(value.asFile().properties.done == true, "🟩", if(value.asFile().properties.skipped == true, "🟥", "⬜"))).join("")'
+  rpe_values: days.map(value.asFile().properties.rpe).filter(value.isTruthy()).map(number(value))
+  avg_rpe: if(formula.rpe_values.length > 0, (formula.rpe_values.reduce(acc + value, 0) / formula.rpe_values.length).round(1), "")
+  rpe_bar: 'if(formula.rpe_values.length > 0, "●".repeat(formula.avg_rpe.round(0)) + "○".repeat(10 - formula.avg_rpe.round(0)), "")'
+  load: days.map(value.asFile().properties).filter(value.hours.isTruthy() && value.rpe.isTruthy()).map(number(value.hours) * number(value.rpe)).reduce(acc + value, 0).round(1)
+  swim_m: days.map(value.asFile().properties.swim_m).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
+  bike_km: days.map(value.asFile().properties.bike_km).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
+  run_km: days.map(value.asFile().properties.run_km).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
+  strength_min: days.map(value.asFile().properties.strength_min).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
+  hr_values: days.map(value.asFile().properties.avg_hr).filter(value.isTruthy()).map(number(value))
+  avg_hr: if(formula.hr_values.length > 0, (formula.hr_values.reduce(acc + value, 0) / formula.hr_values.length).round(0), "")
+  sleep_values: days.map(value.asFile().properties.sleep_h).filter(value.isTruthy()).map(number(value))
+  avg_sleep: if(formula.sleep_values.length > 0, (formula.sleep_values.reduce(acc + value, 0) / formula.sleep_values.length).round(1), "")
+  energy_values: days.map(value.asFile().properties.energy).filter(value.isTruthy()).map(number(value))
+  avg_energy: if(formula.energy_values.length > 0, (formula.energy_values.reduce(acc + value, 0) / formula.energy_values.length).round(1), "")
+properties:
+  formula.title:
+    displayName: Week
+  note.week_start:
+    displayName: Start
+  note.phase:
+    displayName: Phase
+  note.hours_planned:
+    displayName: Planned (h)
+  formula.hours_actual:
+    displayName: Actual (h)
+  formula.hours_pct:
+    displayName: "% of plan"
+  formula.hours_bar:
+    displayName: Volume vs plan
+  formula.hours_delta:
+    displayName: Delta (h)
+  formula.days_done:
+    displayName: Done
+  formula.days_skipped:
+    displayName: Skipped
+  formula.day_strip:
+    displayName: Consistency
+  formula.avg_rpe:
+    displayName: Avg RPE
+  formula.rpe_bar:
+    displayName: Intensity
+  formula.load:
+    displayName: Load (h x RPE)
+  formula.swim_m:
+    displayName: Swim (m)
+  formula.bike_km:
+    displayName: Bike (km)
+  formula.run_km:
+    displayName: Run (km)
+  formula.strength_min:
+    displayName: Strength (min)
+  formula.avg_hr:
+    displayName: Avg HR
+  formula.avg_sleep:
+    displayName: Avg sleep (h)
+  formula.avg_energy:
+    displayName: Avg energy (1-5)
+views:
+  - type: cards
+    name: Last 8 weeks
+    limit: 8
+    cardSize: 260
+    order:
+      - formula.title
+      - phase
+      - hours_planned
+      - formula.hours_actual
+      - formula.hours_pct
+      - formula.hours_bar
+      - formula.day_strip
+      - formula.avg_rpe
+      - formula.rpe_bar
+      - formula.load
+      - formula.swim_m
+      - formula.bike_km
+      - formula.run_km
+      - formula.strength_min
+      - formula.avg_hr
+      - formula.avg_sleep
+      - formula.avg_energy
+    sort:
+      - property: week_start
+        direction: DESC
+  - type: table
+    name: All weeks
+    order:
+      - formula.title
+      - phase
+      - hours_planned
+      - formula.hours_actual
+      - formula.hours_delta
+      - formula.hours_pct
+      - formula.hours_bar
+      - formula.days_done
+      - formula.days_skipped
+      - formula.day_strip
+      - formula.avg_rpe
+      - formula.rpe_bar
+      - formula.load
+      - formula.swim_m
+      - formula.bike_km
+      - formula.run_km
+      - formula.strength_min
+      - formula.avg_hr
+      - formula.avg_sleep
+      - formula.avg_energy
+    sort:
+      - property: week_start
+        direction: ASC
+  - type: table
+    name: By phase
+    groupBy:
+      property: phase
+      direction: ASC
+    order:
+      - formula.title
+      - hours_planned
+      - formula.hours_actual
+      - formula.hours_pct
+      - formula.days_done
+      - formula.days_skipped
+      - formula.avg_rpe
+      - formula.load
+      - formula.swim_m
+      - formula.bike_km
+      - formula.run_km
+      - formula.strength_min
+    sort:
+      - property: week_start
+        direction: ASC
+    summaries:
+      hours_planned: Sum
+      formula.hours_actual: Sum
+      formula.hours_pct: Average
+      formula.days_done: Sum
+      formula.days_skipped: Sum
+      formula.avg_rpe: Average
+      formula.load: Sum
+      formula.swim_m: Sum
+      formula.bike_km: Sum
+      formula.run_km: Sum
+      formula.strength_min: Sum

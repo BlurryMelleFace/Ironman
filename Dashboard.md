@@ -34,6 +34,9 @@ views:
 ![[Log/Today.base]]
 ![[Log/Today.base#Today stats]]
 
+![[Log/Today.base#Today volume]]
+![[Log/Today.base#Today body]]
+
 ![[Log/Today.base#Today notes]]
 
 ---
@@ -49,38 +52,6 @@ views:
 > Open the week note for the full plan and reflection. All weeks → [[Log/Training Metrics]]
 
 ![[Log/Current Week.base]]
-
-### 🔜 Next Key Sessions
-
-```base
-filters:
-  and:
-    - file.inFolder("Log/Days")
-    - kind == "training-day"
-    - date >= today()
-    - or:
-        - planned.contains("Long Bike")
-        - planned.contains("Long Run")
-        - planned.contains("Bike intervals")
-properties:
-  note.date:
-    displayName: Date
-  note.weekday:
-    displayName: Day
-  note.planned:
-    displayName: Session
-views:
-  - type: table
-    name: Next Key Sessions
-    limit: 4
-    order:
-      - date
-      - weekday
-      - planned
-    sort:
-      - property: date
-        direction: ASC
-```
 
 ---
 
@@ -101,6 +72,7 @@ views:
 | 🔄 Recovery & Adjustments  | [[Support/Recovery and Adjustments]] |
 | 📏 Baseline Tests          | [[Support/Baseline Tests]]           |
 | 📊 Training Metrics        | [[Log/Training Metrics]]             |
+| 📈 Visualization           | [[Visualization]]                    |
 
 ---
 

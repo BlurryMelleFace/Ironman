@@ -20,10 +20,24 @@ properties:
     displayName: RPE
   note.hours:
     displayName: Hours
-  note.metrics:
-    displayName: Metrics
   note.notes:
     displayName: Notes
+  note.swim_m:
+    displayName: Swim (m)
+  note.bike_km:
+    displayName: Bike (km)
+  note.run_km:
+    displayName: Run (km)
+  note.strength_min:
+    displayName: Strength (min)
+  note.avg_hr:
+    displayName: Avg HR
+  note.sleep_h:
+    displayName: Sleep (h)
+  note.energy:
+    displayName: Energy
+  note.weight_kg:
+    displayName: Weight (kg)
 views:
   - type: table
     name: Days
@@ -36,7 +50,14 @@ views:
       - actual
       - rpe
       - hours
-      - metrics
+      - swim_m
+      - bike_km
+      - run_km
+      - strength_min
+      - avg_hr
+      - sleep_h
+      - energy
+      - weight_kg
       - notes
     sort:
       - property: date
@@ -46,3 +67,10 @@ views:
       skipped: Checked
       rpe: Average
       hours: Sum
+      swim_m: Sum
+      bike_km: Sum
+      run_km: Sum
+      strength_min: Sum
+      avg_hr: Average
+      sleep_h: Average
+      energy: Average

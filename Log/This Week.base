@@ -27,8 +27,6 @@ properties:
     displayName: RPE
   note.hours:
     displayName: Hours
-  note.metrics:
-    displayName: Metrics
   note.notes:
     displayName: Notes
 views:
@@ -44,7 +42,6 @@ views:
       - actual
       - rpe
       - hours
-      - metrics
       - notes
     sort:
       - property: date

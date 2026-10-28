@@ -17,11 +17,25 @@ properties:
   note.rpe:
     displayName: RPE (1-10)
   note.hours:
-    displayName: Hours (e.g. 1.5)
-  note.metrics:
-    displayName: Metrics (HR, pace, power, distance, weight...)
+    displayName: Hours
   note.notes:
     displayName: How did it go?
+  note.swim_m:
+    displayName: Swim (m)
+  note.bike_km:
+    displayName: Bike (km)
+  note.run_km:
+    displayName: Run (km)
+  note.strength_min:
+    displayName: Strength (min)
+  note.avg_hr:
+    displayName: Avg HR
+  note.sleep_h:
+    displayName: Sleep (h)
+  note.energy:
+    displayName: Energy (1-5)
+  note.weight_kg:
+    displayName: Weight (kg)
 views:
   - type: table
     name: Today
@@ -31,20 +45,44 @@ views:
       - skipped
     rowHeight: medium
     columnSize:
-      note.planned: 280
-      note.done: 68
-      note.skipped: 55
+      note.planned: 300
+      note.done: 70
+      note.skipped: 70
   - type: table
     name: Today stats
     order:
       - rpe
       - hours
-      - metrics
     rowHeight: short
     columnSize:
-      note.rpe: 90
-      note.hours: 90
-      note.metrics: 240
+      note.rpe: 267
+      note.hours: 110
+  - type: table
+    name: Today volume
+    order:
+      - swim_m
+      - bike_km
+      - run_km
+      - strength_min
+    rowHeight: short
+    columnSize:
+      note.swim_m: 110
+      note.bike_km: 110
+      note.run_km: 110
+      note.strength_min: 130
+  - type: table
+    name: Today body
+    order:
+      - avg_hr
+      - sleep_h
+      - energy
+      - weight_kg
+    rowHeight: short
+    columnSize:
+      note.avg_hr: 110
+      note.sleep_h: 110
+      note.energy: 120
+      note.weight_kg: 120
   - type: table
     name: Today notes
     order:
@@ -64,7 +102,6 @@ views:
       - actual
       - rpe
       - hours
-      - metrics
       - notes
     cardSize: 600
   - type: table
