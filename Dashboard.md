@@ -52,10 +52,6 @@ views:
 
 ![[Log/Current Week.base]]
 
-### Last 5 Weeks
-
-![[Log/Current Week.base#Last 5 weeks]]
-
 ---
 
 ## 📍 Quick Navigation
