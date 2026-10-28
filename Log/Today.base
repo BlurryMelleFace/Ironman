@@ -22,8 +22,8 @@ properties:
     displayName: How did it go?
   note.swim_m:
     displayName: Swim (m)
-  note.bike_km:
-    displayName: Bike (km)
+  note.bike_h:
+    displayName: Bike (h)
   note.run_km:
     displayName: Run (km)
   note.strength_min:
@@ -56,13 +56,13 @@ views:
     name: Today volume
     order:
       - swim_m
-      - bike_km
+      - bike_h
       - run_km
       - strength_min
     rowHeight: short
     columnSize:
       note.swim_m: 110
-      note.bike_km: 110
+      note.bike_h: 110
       note.run_km: 110
       note.strength_min: 130
   - type: table
@@ -85,7 +85,7 @@ views:
       - rpe
       - hours
       - swim_m
-      - bike_km
+      - bike_h
       - run_km
       - strength_min
       - notes

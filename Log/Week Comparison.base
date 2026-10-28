@@ -17,7 +17,7 @@ formulas:
   rpe_bar: if(formula.rpe_values.length > 0, "●".repeat(formula.avg_rpe.round(0)) + "○".repeat(10 - formula.avg_rpe.round(0)), "")
   load: days.map(value.asFile().properties).filter(value.hours.isTruthy() && value.rpe.isTruthy()).map(number(value.hours) * number(value.rpe)).reduce(acc + value, 0).round(1)
   swim_m: days.map(value.asFile().properties.swim_m).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
-  bike_km: days.map(value.asFile().properties.bike_km).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
+  bike_h: days.map(value.asFile().properties.bike_h).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
   run_km: days.map(value.asFile().properties.run_km).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0).round(1)
   strength_min: days.map(value.asFile().properties.strength_min).filter(value.isTruthy()).map(number(value)).reduce(acc + value, 0)
 properties:
@@ -51,8 +51,8 @@ properties:
     displayName: Load (h x RPE)
   formula.swim_m:
     displayName: Swim (m)
-  formula.bike_km:
-    displayName: Bike (km)
+  formula.bike_h:
+    displayName: Bike (h)
   formula.run_km:
     displayName: Run (km)
   formula.strength_min:
@@ -72,7 +72,7 @@ views:
       - formula.rpe_bar
       - formula.load
       - formula.swim_m
-      - formula.bike_km
+      - formula.bike_h
       - formula.run_km
       - formula.strength_min
     sort:
@@ -97,7 +97,7 @@ views:
       - formula.rpe_bar
       - formula.load
       - formula.swim_m
-      - formula.bike_km
+      - formula.bike_h
       - formula.run_km
       - formula.strength_min
     sort:
@@ -118,7 +118,7 @@ views:
       - formula.avg_rpe
       - formula.load
       - formula.swim_m
-      - formula.bike_km
+      - formula.bike_h
       - formula.run_km
       - formula.strength_min
     sort:
@@ -133,6 +133,6 @@ views:
       formula.avg_rpe: Average
       formula.load: Sum
       formula.swim_m: Sum
-      formula.bike_km: Sum
+      formula.bike_h: Sum
       formula.run_km: Sum
       formula.strength_min: Sum

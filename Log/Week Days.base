@@ -7,7 +7,7 @@ formulas:
   title: file.asLink(note.weekday + " · " + note.date.format("D MMM"))
   status: if(note.done == true, "✅ Done", if(note.skipped == true, "❌ Skipped", "⬜ Not logged"))
   effort: if(note.hours, "" + note.hours + " h     ", "") + if(note.rpe, "RPE " + note.rpe, "")
-  volume: if(note.swim_m, "🏊 " + note.swim_m + " m     ", "") + if(note.bike_km, "🚴 " + note.bike_km + " km     ", "") + if(note.run_km, "🏃 " + note.run_km + " km     ", "") + if(note.strength_min, "💪 " + note.strength_min + " min", "")
+  volume: if(note.swim_m, "🏊 " + note.swim_m + " m     ", "") + if(note.bike_h, "🚴 " + note.bike_h + " h     ", "") + if(note.run_km, "🏃 " + note.run_km + " km     ", "") + if(note.strength_min, "💪 " + note.strength_min + " min", "")
 properties:
   formula.title:
     displayName: Day
@@ -37,8 +37,8 @@ properties:
     displayName: Notes
   note.swim_m:
     displayName: Swim (m)
-  note.bike_km:
-    displayName: Bike (km)
+  note.bike_h:
+    displayName: Bike (h)
   note.run_km:
     displayName: Run (km)
   note.strength_min:
@@ -70,7 +70,7 @@ views:
       - rpe
       - hours
       - swim_m
-      - bike_km
+      - bike_h
       - run_km
       - strength_min
       - notes
@@ -83,6 +83,6 @@ views:
       rpe: Average
       hours: Sum
       swim_m: Sum
-      bike_km: Sum
+      bike_h: Sum
       run_km: Sum
       strength_min: Sum

@@ -111,8 +111,8 @@ properties:
     displayName: Notes
   note.swim_m:
     displayName: Swim (m)
-  note.bike_km:
-    displayName: Bike (km)
+  note.bike_h:
+    displayName: Bike (h)
   note.run_km:
     displayName: Run (km)
   note.strength_min:
@@ -133,7 +133,7 @@ views:
       - rpe
       - hours
       - swim_m
-      - bike_km
+      - bike_h
       - run_km
       - strength_min
       - notes
@@ -146,7 +146,7 @@ views:
       rpe: Average
       hours: Sum
       swim_m: Sum
-      bike_km: Sum
+      bike_h: Sum
       run_km: Sum
       strength_min: Sum
 ```
@@ -162,7 +162,7 @@ views:
 | **Actual** | What you actually did (e.g. "55 min, felt heavy") |
 | **RPE** | Rate of Perceived Exertion: 1 (very easy) → 10 (maximum) |
 | **Hours** | Training time as a number (e.g. 1.5) — adds up to the weekly total |
-| **Swim (m) / Bike (km) / Run (km)** | Numbers only (e.g. 1400, 45, 10.5), summed per week on [[Visualization]] |
+| **Swim (m) / Bike (h) / Run (km)** | Numbers only (e.g. 1400, 1.5, 10.5), summed per week on [[Visualization]] |
 | **Strength (min)** | Minutes of strength / core work |
 | **Notes** | Anything relevant — form cues, nutrition, fatigue, highlights |
 
